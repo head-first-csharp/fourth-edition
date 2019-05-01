@@ -5,7 +5,7 @@ _This is a work in progress! The 4th edition of "Head First C#" is due out in mi
 
 ## Folders
 Here's what you'll find in this repository:
-* [Unity](https://github.com/head-first-csharp/third-edition/tree/master/Graphics) – PDFs and graphics files for the Unity Lab projects throughout the book
+* [Unity](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity) – PDFs and graphics files for the Unity Lab projects throughout the book
 
 ![Head First C#, 3rd Edition – cover](https://github.com/head-first-csharp/third-edition/raw/master/hfcsharp-3e-cover.png)
 
