@@ -3,11 +3,11 @@ This project contains source code, graphics, and downloadable PDFs for the proje
 
 _This is a work in progress! The 4th edition of "Head First C#" is due out in mid- to late-2019. We will continue to post material as we write the book._
 
+☮️ 💓 👾 Jenny and Andrew
+
 ## Folders
 Here's what you'll find in this repository:
 * [Unity](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity) – PDFs and graphics files for the Unity Lab projects throughout the book
-
-☮️ 💓 👾– Jenny and Andrew
 
 ![Head First C#, 3rd Edition – cover](https://github.com/head-first-csharp/third-edition/raw/master/hfcsharp-3e-cover.png)
 
