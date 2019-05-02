@@ -3,7 +3,7 @@ This project contains source code, graphics, and downloadable PDFs for the proje
 
 _This is a work in progress! The 4th edition of "Head First C#" is due out in mid- to late-2019. We will continue to post material as we write the book._
 
-☮️ 💓 👾 Jenny and Andrew
+☮️♥️👾 Jenny and Andrew
 
 ## Folders
 Here's what you'll find in this repository:
