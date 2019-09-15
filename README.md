@@ -7,7 +7,8 @@ _☮️♥️👾 Jenny and Andrew_
 
 ## Folders
 Here's what you'll find in this repository:
-* [Unity](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity) – PDFs and graphics files for the Unity Lab projects throughout the book
+* [Unity](Unity) – PDFs and graphics files for the Unity Lab projects throughout the book
+* [Billiard Ball Textures](Unity%20Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
 
 ![Head First C#, 3rd Edition – cover](https://github.com/head-first-csharp/third-edition/raw/master/hfcsharp-3e-cover.png)
 
