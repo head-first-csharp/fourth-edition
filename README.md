@@ -16,6 +16,6 @@ Here's what you'll find in this repository:
 
 All of the source code and graphics used by the source code is licensed under the [MIT License](https://github.com/head-first-csharp/third-edition/blob/master/LICENSE).
 
-PDFs, cover, and other written book material © 2019 Andrew Stellman and Jennifer Greene, all rights reserved.
+PDFs, cover, and other written book material © 2020 Andrew Stellman and Jennifer Greene, all rights reserved.
 
 The O’Reilly logo is a registered trademark of O’Reilly Media, Inc. The Head First series designations, Head First C#, and related trade dress are trademarks of O’Reilly Media, Inc.
