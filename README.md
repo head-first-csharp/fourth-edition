@@ -1,4 +1,4 @@
-# Head First C#, 4th Edition (2019)
+# Head First C#, 4th Edition (2020)
 This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (2019)
 
 _This is a work in progress! The 4th edition of "Head First C#" is due out in late 2019. We will continue to post material as we write the book._
