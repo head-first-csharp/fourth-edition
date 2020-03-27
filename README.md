@@ -1,5 +1,7 @@
 # Head First C#, 4th Edition (2020)
-This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (2019)
+This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (2020)
+
+We're pleased to share the early release chapters with you! Check out the early versions of chapters 1 and 2, and the first two much-anticipated Unity labs: [Head_First_Csharp_4th_Edition_Early_Release.pdf](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)
 
 _This is a work in progress! The 4th edition of "Head First C#" is due out in mid 2020. We will continue to post material as we write the book._
 
