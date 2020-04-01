@@ -17,7 +17,7 @@ Here's what you'll find in this repository:
 
 ## License and Copyright
 
-All of the source code and graphics used by the source code is licensed under the [MIT License](https://github.com/head-first-csharp/third-edition/blob/master/LICENSE).
+All of the source code and graphics used by the source code is licensed under the [MIT License](https://github.com/head-first-csharp/fourth-edition/blob/master/LICENSE).
 
 PDFs, cover, and other written book material © 2020 Andrew Stellman and Jennifer Greene, all rights reserved.
 
