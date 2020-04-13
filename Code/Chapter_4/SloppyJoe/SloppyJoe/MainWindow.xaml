@@ -1,0 +1,44 @@
+﻿<Window x:Class="SloppyJoe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SloppyJoe"
+        mc:Ignorable="d"
+        Title="Welcome to Sloppy Joe's Budget House o' Discount Sandwiches!" Height="350" Width="550">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="item1" FontSize="18px" />
+        <TextBlock x:Name="price1" FontSize="18px" HorizontalAlignment="Right" Grid.Column="1"/>
+        <TextBlock x:Name="item2" FontSize="18px" Grid.Row="1"/>
+        <TextBlock x:Name="price2" FontSize="18px" HorizontalAlignment="Right"
+               Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="item3" FontSize="18px" Grid.Row="2" />
+        <TextBlock x:Name="price3" FontSize="18px" HorizontalAlignment="Right" Grid.Row="2"
+               Grid.Column="1"/>
+        <TextBlock x:Name="item4" FontSize="18px" Grid.Row="3" />
+        <TextBlock x:Name="price4" FontSize="18px" HorizontalAlignment="Right" Grid.Row="3"
+               Grid.Column="1"/>
+        <TextBlock x:Name="item5" FontSize="18px" Grid.Row="4" />
+        <TextBlock x:Name="price5" FontSize="18px" HorizontalAlignment="Right" Grid.Row="4"
+               Grid.Column="1"/>
+        <TextBlock x:Name="item6" FontSize="18px" Grid.Row="5" />
+        <TextBlock x:Name="price6" FontSize="18px" HorizontalAlignment="Right" Grid.Row="5"
+               Grid.Column="1"/>
+        <TextBlock x:Name="guacamole" FontSize="18px" FontStyle="Italic" Grid.Row="6"
+               Grid.ColumnSpan="2" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>
