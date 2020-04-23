@@ -5,7 +5,7 @@ This project contains source code, graphics, and downloadable PDFs for the proje
 
 We're pleased to share the **[Early Release chapters](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)** with you! Check out the early versions of chapters 1 and 2, and the first two much-anticipated Unity labs: [Head_First_Csharp_4th_Edition_Early_Release.pdf](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)
 
-_This is a work in progress! The 4th edition of "Head First C#" is due out in mid 2020. We will continue to post material as we write the book._
+_This is a work in progress! The 4th edition of "Head First C#" is due out in late 2020. We will continue to post material as we write the book._
 
 _☮️♥️👾 Jenny and Andrew_
 
