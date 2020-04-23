@@ -16,7 +16,7 @@ Here's what you'll find in this repository:
 * [Unity Labs](Unity%20Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
 * [Billiard Ball Textures](Unity%20Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
 
-![Head First C#, 3rd Edition – cover](https://github.com/head-first-csharp/third-edition/raw/master/hfcsharp-3e-cover.png)
+![Head First C#, 4rd Edition – cover](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_C%23_4e_cover.png)
 
 ## License and Copyright
 
