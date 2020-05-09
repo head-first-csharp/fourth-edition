@@ -1,5 +1,5 @@
 # Head First C#, 4th Edition (2020)
-This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (2020)
+This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (2020). 
 
 ## Read the first two chapters today!
 
@@ -8,6 +8,10 @@ We're pleased to share the **[Early Release chapters](EarlyRelease/Head_First_Cs
 _This is a work in progress! The 4th edition of "Head First C#" is due out in late 2020. We will continue to post material as we write the book._
 
 _☮️♥️👾 Jenny and Andrew_
+
+## When is it coming out?
+
+We're really hard at work finishing this book! The [Amazon page](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) has a release date of November 2020, and we're really confident that the book will be available by then.
 
 ## Where to find stuff
 
