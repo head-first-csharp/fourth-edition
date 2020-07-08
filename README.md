@@ -28,4 +28,6 @@ All of the source code and graphics used by the source code is licensed under th
 
 PDFs, cover, and other written book material © 2020 Andrew Stellman and Jennifer Greene, all rights reserved.
 
+Cover art by [Jose Marzan Jr.](http://josemarzan.com/) ([@JoseMarzan](https://twitter.com/JoseMarzan)).
+
 The O’Reilly logo is a registered trademark of O’Reilly Media, Inc. The Head First series designations, Head First C#, and related trade dress are trademarks of O’Reilly Media, Inc.
