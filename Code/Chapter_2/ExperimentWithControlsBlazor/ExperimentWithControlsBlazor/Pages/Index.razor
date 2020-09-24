@@ -1,0 +1,25 @@
+﻿@page "/"
+
+<h1>Experiment with controls</h1>
+
+<h2>Control Value: @DisplayValue</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6"><input type="color" @onchange="UpdateValue" /></div>
+        <div class="col-sm-6"><input type="date" @onchange="UpdateValue" /></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6"><input type="text" @onchange="UpdateValue" placeholder="Enter text" /></div>
+        <div class="col-sm-6"><input type="range" @onchange="UpdateValue" /></div>
+    </div>
+</div>
+
+@code
+{
+    private string DisplayValue { get; set; }
+
+    private void UpdateValue(ChangeEventArgs e)
+    {
+        DisplayValue = e.Value.ToString();
+    }
+}
