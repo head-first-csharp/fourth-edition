@@ -1,0 +1,34 @@
+﻿@page "/"
+
+<div class="row">
+    <div class="col-6">
+        <div class="row">
+            <p>How many cards should I pick?</p>
+        </div>
+        <div class="row">
+            <input type="range" min="1" max="15" @bind="numberOfCards" />
+        </div>
+        <div class="row">
+            <button @onclick="Update">Click Me</button>
+        </div>
+    </div>
+    <div class="col-6">
+        <ul>
+            @foreach (var card in pickedCards)
+            {
+                <li>@card</li>
+            }
+        </ul>
+    </div>
+</div>
+
+@code {
+    private int numberOfCards { get; set; }
+
+    private IList<string> pickedCards = new List<string>();
+
+    private void Update()
+    {
+        pickedCards = CardPicker.PickSomeCards(numberOfCards);
+    }
+}
