@@ -5,13 +5,13 @@ _This is a work in progress! The 4th edition of "Head First C#" is due out in la
 
 _☮️♥️👾 Jenny and Andrew_
 
-## Read the first two chapters today!
+## Read the first four chapters today!
 
-We're pleased to share the **[Early Release chapters](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)** with you! Check out the early versions of chapters 1 and 2, and the first two much-anticipated Unity labs: [Head_First_Csharp_4th_Edition_Early_Release.pdf](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)
+We're pleased to share the **[Early Release chapters](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)** with you! Check out the early versions of chapters 1 through 4, the early edition of the _Visual Studio for Mac Learner's Guide_ appendix, and the first two much-anticipated Unity labs: [Head_First_Csharp_4th_Edition_Early_Release.pdf](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)
 
 ## When is it coming out?
 
-We're really hard at work finishing this book! The [Amazon page](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) has a release date of November 2020, and we're really confident that the book will be available by then.
+We're really hard at work finishing this book! The [Amazon page](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) has a release date of November 2020—we think it may be a little later than that, but we're _really close_!
 
 ## Where to find stuff
 
