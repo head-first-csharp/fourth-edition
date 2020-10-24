@@ -7,7 +7,7 @@ _☮️♥️👾 Jenny and Andrew_
 
 ## Read the first four chapters today!
 
-We're pleased to share the **[Early Release chapters](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)** with you! Check out the early versions of chapters 1 through 4, the early edition of the _Visual Studio for Mac Learner's Guide_ appendix, and the first two much-anticipated Unity labs: [Head_First_Csharp_4th_Edition_Early_Release.pdf](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)
+We're pleased to share the **[Early Release chapters](https://github.com/head-first-csharp/fourth-edition/raw/master/EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)** with you! Check out the early versions of chapters 1 through 4, the early edition of the _Visual Studio for Mac Learner's Guide_ appendix, and the first two much-anticipated Unity labs: [Head_First_Csharp_4th_Edition_Early_Release.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf)
 
 ## When is it coming out?
 
@@ -16,7 +16,7 @@ We're really hard at work finishing this book! The [Amazon page](https://www.ama
 ## Where to find stuff
 
 Here's what you'll find in this repository:
-* [Head_First_Csharp_4th_Edition_Early_Release.pdf](EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf) – a PDF of the early release chapters, including the first two Unity Labs
+* [Head_First_Csharp_4th_Edition_Early_Release.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf) – a PDF of the early release chapters, including the first two Unity Labs
 * [Unity Labs](Unity%20Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
 * [Billiard Ball Textures](Unity%20Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
 
