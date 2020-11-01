@@ -11,7 +11,7 @@ We're pleased to share the **[Early Release chapters](https://github.com/head-fi
 
 ## When is it coming out?
 
-We're really hard at work finishing this book! The [Amazon page](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) has a release date of November 2020—we think it may be a little later than that, but we're _really close_!
+We're really hard at work finishing this book! The [Amazon page](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) has a release date of November 2020, and we think that's accurate! After the book is officially released and sent to print, it usually takes about a week for the eBook versions to be available, and about three weeks for the printer to ship books to bookstores and Amazon warehouses.
 
 ## Where to find stuff
 
