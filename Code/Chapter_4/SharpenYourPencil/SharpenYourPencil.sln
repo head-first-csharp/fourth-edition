@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SloppyJoe", "SloppyJoe\SloppyJoe.csproj", "{374DDE4E-344D-46DC-AA2E-16C409150F1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpenYourPencil", "SharpenYourPencil\SharpenYourPencil.csproj", "{8D076544-67D2-4FB9-AA87-E371740BBBBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{374DDE4E-344D-46DC-AA2E-16C409150F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{374DDE4E-344D-46DC-AA2E-16C409150F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{374DDE4E-344D-46DC-AA2E-16C409150F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{374DDE4E-344D-46DC-AA2E-16C409150F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D076544-67D2-4FB9-AA87-E371740BBBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D076544-67D2-4FB9-AA87-E371740BBBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D076544-67D2-4FB9-AA87-E371740BBBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D076544-67D2-4FB9-AA87-E371740BBBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F3C092A4-5B52-40C2-9551-373A642273E7}
+		SolutionGuid = {722A9D24-8B97-4BA2-840F-5DE90D168FD9}
 	EndGlobalSection
 EndGlobal

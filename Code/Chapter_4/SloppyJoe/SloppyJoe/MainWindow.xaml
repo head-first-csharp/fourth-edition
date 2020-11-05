@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SloppyJoe"
         mc:Ignorable="d"
-        Title="Welcome to Sloppy Joe's Budget House o' Discount Sandwiches!" Height="350" Width="550">
+        Title="MainWindow" Height="450" Width="800">
+
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition/>
@@ -41,4 +42,5 @@
         <TextBlock x:Name="guacamole" FontSize="18px" FontStyle="Italic" Grid.Row="6"
                Grid.ColumnSpan="2" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
+    
 </Window>

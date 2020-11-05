@@ -29,32 +29,30 @@ namespace SloppyJoe
         private void MakeTheMenu()
         {
             MenuItem[] menuItems = new MenuItem[5];
+            string guacamolePrice;
+
             for (int i = 0; i < 5; i++)
             {
-                if (i < 3)
+                menuItems[i] = new MenuItem();
+                if (i >= 3)
                 {
-                    menuItems[i] = new MenuItem();
+                    menuItems[i].Breads = new string[] {
+            "plain bagel", "onion bagel", "pumpernickel bagel", "everything bagel"
+            };
                 }
-                else
-                {
-                    menuItems[i] = new MenuItem()
-                    {
-                        Breads = new string[] { "plain bagel", "onion bagel",
-                "pumpernickel bagel", "everything bagel" }
-                    };
-                }
+                menuItems[i].Generate();
             }
 
-            item1.Text = menuItems[0].GenerateMenuItem();
-            price1.Text = menuItems[0].RandomPrice();
-            item2.Text = menuItems[1].GenerateMenuItem();
-            price2.Text = menuItems[1].RandomPrice();
-            item3.Text = menuItems[2].GenerateMenuItem();
-            price3.Text = menuItems[2].RandomPrice();
-            item4.Text = menuItems[3].GenerateMenuItem();
-            price4.Text = menuItems[3].RandomPrice();
-            item5.Text = menuItems[4].GenerateMenuItem();
-            price5.Text = menuItems[4].RandomPrice();
+            item1.Text = menuItems[0].Description;
+            price1.Text = menuItems[0].Price;
+            item2.Text = menuItems[1].Description;
+            price2.Text = menuItems[1].Price;
+            item3.Text = menuItems[2].Description;
+            price3.Text = menuItems[2].Price;
+            item4.Text = menuItems[3].Description;
+            price4.Text = menuItems[3].Price;
+            item5.Text = menuItems[4].Description;
+            price5.Text = menuItems[4].Price;
 
             MenuItem specialMenuItem = new MenuItem()
             {
@@ -62,11 +60,16 @@ namespace SloppyJoe
                 Breads = new string[] { "a gluten free roll", "a wrap", "pita" },
                 Condiments = new string[] { "dijon mustard", "miso dressing", "au jus" }
             };
+            specialMenuItem.Generate();
 
-            item6.Text = specialMenuItem.GenerateMenuItem();
-            price6.Text = specialMenuItem.RandomPrice();
+            item6.Text = specialMenuItem.Description;
+            price6.Text = specialMenuItem.Price;
 
-            guacamole.Text = "Add guacamole for " + specialMenuItem.RandomPrice();
+            MenuItem guacamoleMenuItem = new MenuItem();
+            guacamoleMenuItem.Generate();
+            guacamolePrice = guacamoleMenuItem.Price;
+
+            guacamole.Text = "Add guacamole for " +guacamoleMenuItem.Price;
         }
     }
 }
