@@ -19,18 +19,16 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <Label Content="Enter a number" FontSize="18"
-            Margin="10,10,0,0" HorizontalAlignment="Left"
-            VerticalAlignment="Top"/>
-
         <Label Content="Enter a number" FontSize="18" Margin="10,10,0,0"
-            HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            HorizontalAlignment="Left" VerticalAlignment="Top" />
 
         <TextBlock x:Name="number" Grid.Column="1" Text="#" FontSize="24"
             HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" />
 
         <TextBox x:Name="numberTextBox" FontSize="18" Margin="10,49,0,0" Text="0" Width="120"
-            HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="numberTextBox_TextChanged" PreviewTextInput="numberTextBox_PreviewTextInput" />
+            HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" 
+                 TextChanged="numberTextBox_TextChanged"
+                 PreviewTextInput="numberTextBox_PreviewTextInput" />
 
         <RadioButton Content="1" Margin="200,49,0,0"
              HorizontalAlignment="Left" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
@@ -63,16 +61,18 @@
         </ComboBox>
 
         <ComboBox x:Name="editableComboBox" Grid.Column="1" Grid.Row="1" IsEditable="True" 
-          HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="270,10,0,0"
-          PreviewTextInput="numberTextBox_PreviewTextInput" TextBoxBase.TextChanged="editableComboBox_TextChanged">
+            HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="267,10,0,0"
+            PreviewTextInput="numberTextBox_PreviewTextInput"
+            TextBoxBase.TextChanged="editableComboBox_TextChanged" >
             <ListBoxItem Content="1"/>
             <ListBoxItem Content="2"/>
             <ListBoxItem Content="3"/>
             <ListBoxItem Content="4"/>
             <ListBoxItem Content="5"/>
         </ComboBox>
-        <Slider x:Name="smallSlider" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="120" AutoToolTipPlacement="TopLeft" Maximum="5" Minimum="1" ValueChanged="smallSlider_ValueChanged"/>
-        <Slider x:Name="bigSlider" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Center" AutoToolTipPlacement="TopLeft" Minimum="1111111111" Maximum="9999999999" Value="7183876962" ValueChanged="bigSlider_ValueChanged" Margin="10,10,10,10"/>
+        <Slider x:Name="smallSlider" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="120" AutoToolTipPlacement="TopLeft" Maximum="5" Minimum="1" ValueChanged="Slider_ValueChanged"/>
+        <Slider x:Name="bigSlider" HorizontalAlignment="Stretch" Margin="10,10,10,10" Grid.Row="2" VerticalAlignment="Center" Grid.ColumnSpan="2" AutoToolTipPlacement="TopLeft" Minimum="1111111111" Maximum="9999999999" Value="7183876962" ValueChanged="bigSlider_ValueChanged"/>
+
 
     </Grid>
 </Window>

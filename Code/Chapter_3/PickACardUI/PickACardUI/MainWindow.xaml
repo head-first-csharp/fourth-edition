@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="Card Picker" Height="300" Width="800">
     <Grid>
-
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition/>
@@ -27,7 +26,9 @@
             HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click" />
 
         <ListBox x:Name="listOfCards" Grid.Column="1" Grid.RowSpan="2"
-             FontSize="20" Margin="20,20,20,20"/>
+            FontSize="20" Margin="20,20,20,20"/>
+
+
 
     </Grid>
 </Window>

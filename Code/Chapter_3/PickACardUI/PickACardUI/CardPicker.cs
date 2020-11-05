@@ -38,7 +38,7 @@ namespace PickACardUI
             if (value == 2) return "Hearts";
             // if it's 3 return the string Clubs
             if (value == 3) return "Clubs";
-            // if we haven't returned yet, return the string Diamonds
+            // if we haven't returned yet, return Diamonds
             return "Diamonds";
         }
     }
