@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehiveManagementSystem", "BeehiveManagementSystem\BeehiveManagementSystem.csproj", "{AC41CF7E-1393-4B49-8A97-3CC41C35B507}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ducks", "Ducks\Ducks.csproj", "{534F41FA-3503-4B9E-B1A0-6C876CB68A71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534F41FA-3503-4B9E-B1A0-6C876CB68A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534F41FA-3503-4B9E-B1A0-6C876CB68A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534F41FA-3503-4B9E-B1A0-6C876CB68A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534F41FA-3503-4B9E-B1A0-6C876CB68A71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {662CDD1E-4B4D-4365-AE08-4659AC9ACF03}
+		SolutionGuid = {4428FD85-A4DD-43BB-93B5-8697C4CE56EC}
 	EndGlobalSection
 EndGlobal

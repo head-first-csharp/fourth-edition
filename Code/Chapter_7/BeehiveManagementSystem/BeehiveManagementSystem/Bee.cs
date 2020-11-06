@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BeehiveManagementSystem
 {
-    abstract class Bee
+    abstract class Bee : IWorker
     {
         public abstract float CostPerShift { get; }
         public string Job { get; private set; }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehiveManagementSystem", "BeehiveManagementSystem\BeehiveManagementSystem.csproj", "{AC41CF7E-1393-4B49-8A97-3CC41C35B507}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballPlayers", "BaseballPlayers\BaseballPlayers.csproj", "{C8865E30-53BF-41F7-BDBB-7F7E96FE7322}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8865E30-53BF-41F7-BDBB-7F7E96FE7322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8865E30-53BF-41F7-BDBB-7F7E96FE7322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8865E30-53BF-41F7-BDBB-7F7E96FE7322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8865E30-53BF-41F7-BDBB-7F7E96FE7322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {662CDD1E-4B4D-4365-AE08-4659AC9ACF03}
+		SolutionGuid = {D931D8B1-393B-48B4-859B-F01013DB7D4B}
 	EndGlobalSection
 EndGlobal

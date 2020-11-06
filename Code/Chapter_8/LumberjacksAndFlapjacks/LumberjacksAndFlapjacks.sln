@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehiveManagementSystem", "BeehiveManagementSystem\BeehiveManagementSystem.csproj", "{AC41CF7E-1393-4B49-8A97-3CC41C35B507}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumberjacksAndFlapjacks", "LumberjacksAndFlapjacks\LumberjacksAndFlapjacks.csproj", "{736441B3-52CB-46D4-82CD-5D225922D6D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC41CF7E-1393-4B49-8A97-3CC41C35B507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736441B3-52CB-46D4-82CD-5D225922D6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736441B3-52CB-46D4-82CD-5D225922D6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736441B3-52CB-46D4-82CD-5D225922D6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736441B3-52CB-46D4-82CD-5D225922D6D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {662CDD1E-4B4D-4365-AE08-4659AC9ACF03}
+		SolutionGuid = {39555184-1456-4740-9F83-504873E21DC4}
 	EndGlobalSection
 EndGlobal
