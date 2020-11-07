@@ -1,0 +1,47 @@
+﻿@page "/"
+
+<div class="container">
+    @foreach (MenuItem menuItem in menuItems)
+    {
+        <div class="row">
+            <div class="col-9">
+                @menuItem.Description
+            </div>
+            <div class="col-3">
+                @menuItem.Price
+            </div>
+        </div>
+    }
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <strong>Add guacamole for @guacamolePrice</strong>
+        </div>
+    </div>
+</div>
+
+@code {
+    MenuItem[] menuItems = new MenuItem[5];
+    string guacamolePrice;
+
+    protected override void OnInitialized()
+    {
+        for (int i = 0; i < 5; i++)
+        {
+            menuItems[i] = new MenuItem();
+            if (i >= 3)
+            {
+                menuItems[i].Breads = new string[] {
+                    "plain bagel",
+                    "onion bagel",
+                    "pumpernickel bagel",
+                    "everything bagel"
+                };
+            }
+            menuItems[i].Generate();
+        }
+
+        MenuItem guacamoleMenuItem = new MenuItem();
+        guacamoleMenuItem.Generate();
+        guacamolePrice = guacamoleMenuItem.Price;
+    }
+}
