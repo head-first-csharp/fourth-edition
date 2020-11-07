@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredEvaluation", "DeferredEvaluation\DeferredEvaluation.csproj", "{BF33D3FF-FD36-4A48-A7B8-C1518B40454E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF33D3FF-FD36-4A48-A7B8-C1518B40454E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF33D3FF-FD36-4A48-A7B8-C1518B40454E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF33D3FF-FD36-4A48-A7B8-C1518B40454E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF33D3FF-FD36-4A48-A7B8-C1518B40454E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEDCB47E-C418-46EF-83F9-3F1226E54C5D}
+	EndGlobalSection
+EndGlobal
