@@ -52,11 +52,11 @@ namespace MatchGame
             {
                 "🐙", "🐙",
                 "🐡", "🐡",
-                "🐘", "🐘", 
-                "🐳", "🐳", 
+                "🐘", "🐘",
+                "🐳", "🐳",
                 "🐪", "🐪",
-                "🦕", "🦕", 
-                "🦘", "🦘", 
+                "🦕", "🦕",
+                "🦘", "🦘",
                 "🦔", "🦔",
             };
 
@@ -72,14 +72,14 @@ namespace MatchGame
                     textBlock.Text = nextEmoji;
                     animalEmoji.RemoveAt(index);
                 }
-
-                timer.Start();
-                tenthsOfSecondsElapsed = 0;
-                matchesFound = 0;
             }
+
+            timer.Start();
+            tenthsOfSecondsElapsed = 0;
+            matchesFound = 0;
         }
 
-        TextBlock lastTextBlockClikcked;
+        TextBlock lastTextBlockClicked;
         bool findingMatch = false;
 
         private void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
@@ -88,10 +88,10 @@ namespace MatchGame
             if (findingMatch == false)
             {
                 textBlock.Visibility = Visibility.Hidden;
-                lastTextBlockClikcked = textBlock;
+                lastTextBlockClicked = textBlock;
                 findingMatch = true;
             }
-            else if (textBlock.Text == lastTextBlockClikcked.Text)
+            else if (textBlock.Text == lastTextBlockClicked.Text)
             {
                 matchesFound++;
                 textBlock.Visibility = Visibility.Hidden;
@@ -99,7 +99,7 @@ namespace MatchGame
             }
             else
             {
-                lastTextBlockClikcked.Visibility = Visibility.Visible;
+                lastTextBlockClicked.Visibility = Visibility.Visible;
                 findingMatch = false;
             }
         }
