@@ -17,7 +17,7 @@ We're really hard at work finishing this book! The [Amazon page](https://www.ama
 
 Here's what you'll find in this repository:
 * [Head_First_Csharp_4th_Edition_Early_Release.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/EarlyRelease/Head_First_Csharp_4th_Edition_Early_Release.pdf) – a PDF of the early release chapters, including the first two Unity Labs
-* [Unity Labs](Unity%20Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
+* [Unity Labs](Unity_Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
 * [Billiard Ball Textures](Unity_Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
 
 ![Head First C#, 4rd Edition – cover](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_C%23_4e_cover.png)
