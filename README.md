@@ -1,5 +1,5 @@
 # Head First C#, 4th Edition (2020)
-This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (2020). 
+This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020). 
 
 ## Read the first four chapters today!
 
