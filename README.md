@@ -1,5 +1,5 @@
-# Head First C#, 4th Edition (2020)
-This project contains source code, graphics, and downloadable PDFs for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020). 
+# Head First C#, 4th Edition
+This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020). 
 
 ## Read the first four chapters today!
 
@@ -19,6 +19,10 @@ Here's what you'll find in this repository:
 * [Head_First_CSharp_4e_chapters_1_to_4.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf) – a PDF of the first four chapters, including the first two Unity Labs and the *Visual Studio for Mac Learner's Guide* appendix
 * [Unity Labs](Unity_Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
 * [Billiard Ball Textures](Unity_Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
+
+## Did you find an error in the book?
+
+We worked really hard to make this book as error-free as possible! But we're only human, and we do occasionally make mistkaes. If you spot an error in the book, please use the [https://www.oreilly.com/catalog/errata.csp?isbn=9781491976708](O'Reilly errata page) to let us know about it. That way it goes into a database so we can keep track of it and fix it in future printings.
 
 ![Head First C#, 4rd Edition – cover](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_C%23_4e_cover.png)
 
