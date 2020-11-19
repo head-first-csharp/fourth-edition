@@ -13,7 +13,18 @@ Try out our book today and see what you think!
 
 ☮️♥️👾 Jenny and Andrew
 
-## Where to find downloads
+## Download all of the Unity Labs
+
+In the *Head First C# Unity Labs* you'll use [https://unity.com/](Unity) to explore C# and practice your C# skills, all while building 3D games.
+* [Unity_Lab_1.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1.pdf) – Explore C# with Unity
+* [Unity_Lab_2.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_2.pdf) – Write C# Code for Unity
+* [Unity_Lab_3.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_3.pdf) – GameObject Instances
+* [Unity_Lab_4.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_4.pdf) – User Interfaces
+* [Unity_Lab_5.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_5.pdf) – Raycasting
+* [Unity_Lab_6.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_6.pdf) – Scene Navigation
+
+
+## All of the additional material that you can download
 
 Here's what you'll find in this repository:
 * [Head_First_CSharp_4e_chapters_1_to_4.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf) – a PDF of the first four chapters, including the first two Unity Labs and the *Visual Studio for Mac Learner's Guide* appendix
