@@ -25,6 +25,8 @@ Some of the chapters have **downloadable projects**. You can download PDFs of th
 * [Chapter_6_Blazor_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_6_Blazor_project.pdf) – The Blazor project from Chapter 5
 * [Chapter_8_WPF_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_WPF_project.pdf) – The WPF project from Chapter 8
 * [Chapter_8_Blazor_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_Blazor_project.pdf) – The Blazor project from Chapter 8
+* [Chapter_9_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_9_project.pdf) – The project from Chapter 9
+* *Chapter_10_project.pdf – we're working really hard to finish this! It's coming soon!*
 
 ***NOTE:** The downloadable projects for these chapters are **early release** PDFs! That means that while the code works, the projects are complete, and we've done our initial review of them, we're still working on polishing them up and putting the final touches on them. But you can definitely start using them today!**
 
