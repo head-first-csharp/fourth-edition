@@ -29,12 +29,12 @@ Find the video walkthroughs for Chapter 1 on our [YouTube channel](https://www.y
 
 Some of the chapters have **downloadable projects**. You can download PDFs of those projects here:
 
-* [Chapter_5_Blazor_projects.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_5_Blazor_projects.pdf) – The two Blazor projects from Chapter 5
-* [Chapter_6_Blazor_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_6_Blazor_project.pdf) – The Blazor project from Chapter 5
-* [Chapter_8_WPF_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_WPF_project.pdf) – The WPF project from Chapter 8
-* [Chapter_8_Blazor_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_Blazor_project.pdf) – The Blazor project from Chapter 8
-* [Chapter_9_project.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_9_project.pdf) – The project from Chapter 9
-* *Chapter_10_project.pdf – we're working really hard to finish this! It's coming soon!*
+* [`Chapter_5_Blazor_projects.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_5_Blazor_projects.pdf) – The two Blazor projects from Chapter 5
+* [`Chapter_6_Blazor_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_6_Blazor_project.pdf) – The Blazor project from Chapter 5
+* [`Chapter_8_WPF_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_WPF_project.pdf) – The WPF project from Chapter 8
+* [`Chapter_8_Blazor_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_Blazor_project.pdf) – The Blazor project from Chapter 8
+* [`Chapter_9_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_9_project.pdf) – The project from Chapter 9
+* `Chapter_10_project.pdf` – *We're working really hard to finish this as fast as we can! It's coming soon, we promise.*
 
 ***NOTE:** The downloadable projects for these chapters are **early release** PDFs! That means that while the code works, the projects are complete, and we've done our initial review of them, we're still working on polishing them up and putting the final touches on them. But you can definitely start using them today!**
 
@@ -53,14 +53,14 @@ In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the po
 ### Additiona Unity Labs
 
 There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
-* [Unity_Lab_7.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
-* Unity_Lab_8.pdf - Collision Detection (coming soon!)
-* Unity_Lab_9.pdf - Unity Boss Battle (coming soon!)
-* Unity_Lab_10.pdf - robots (coming soon!)
+* [`Unity_Lab_7.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
+* `Unity_Lab_8.pdf` - Collision Detection (coming soon!)
+* `Unity_Lab_9.pdf` - Unity Boss Battle (coming soon!)
+* `Unity_Lab_10.pdf` - robots (coming soon!)
 
 ### Unity Lab code
 
-You can find the code for the Unity Lab projects in the [Unity_Labs/Projcts folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity_Labs/Projects). You can load a project into Unity by:
+You can find the code for the Unity Lab projects in the [`Unity_Labs/Projcts folder`](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity_Labs/Projects). You can load a project into Unity by:
  * Downloading it (or cloning this whole repository)
  * Adding its folder to Unity Hub
  * Opening it in Unity Hub
@@ -69,9 +69,9 @@ You can find the code for the Unity Lab projects in the [Unity_Labs/Projcts fold
 ## All of the additional material that you can download
 
 Here's what you'll find in this repository:
-* [Head_First_CSharp_4e_chapters_1_to_4.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf) – a PDF of the first four chapters, including the first two Unity Labs and the *Visual Studio for Mac Learner's Guide* appendix
-* [Unity Labs](Unity_Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
-* [Billiard Ball Textures](Unity_Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
+* [`Head_First_CSharp_4e_chapters_1_to_4.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf) – a PDF of the first four chapters, including the first two Unity Labs and the *Visual Studio for Mac Learner's Guide* appendix
+* [`Unity Labs`](Unity_Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
+* [`Billiard Ball Textures`](Unity_Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
 
 ## Did you find an error in the book?
 
