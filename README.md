@@ -32,6 +32,8 @@ Some of the chapters have **downloadable projects**. You can download PDFs of th
 
 ## Download all of the Unity Labs
 
+### Unity Labs from the book
+
 In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the powerful platform for 2D and 3D game development, to explore C# and practice your C# skills.
 * [Unity_Lab_1.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1.pdf) – Explore C# with Unity
 * [Unity_Lab_2.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_2.pdf) – Write C# Code for Unity
@@ -39,6 +41,22 @@ In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the po
 * [Unity_Lab_4.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_4.pdf) – User Interfaces
 * [Unity_Lab_5.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_5.pdf) – Raycasting
 * [Unity_Lab_6.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_6.pdf) – Scene Navigation
+
+### Additiona Unity Labs
+
+There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
+* [Unity_Lab_7.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
+* Unity_Lab_8.pdf - Collision Detection (coming soon!)
+* Unity_Lab_9.pdf - Unity Boss Battle (coming soon!)
+* Unity_Lab_10.pdf - robots (coming soon!)
+
+### Unity Lab code
+
+You can find the code for the Unity Lab projects in the [Unity_Labs/Projcts folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity_Labs/Projects). You can load a project into Unity by:
+ * Downloading it (or cloning this whole repository)
+ * Adding its folder to Unity Hub
+ * Opening it in Unity Hub
+ * Opening *SampleScene* from the *Scenes* folder
 
 ## All of the additional material that you can download
 
