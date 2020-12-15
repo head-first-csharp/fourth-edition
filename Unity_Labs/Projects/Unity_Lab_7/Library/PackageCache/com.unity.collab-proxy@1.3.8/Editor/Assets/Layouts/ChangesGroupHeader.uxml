@@ -1,0 +1,9 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns:collab="Unity.Cloud.Collaborate.Components">
+    <engine:VisualElement class="changes-group-header__container grow">
+        <engine:VisualElement class="changes-group-header__title-bar">
+            <engine:Label class="changes-group-header__name" />
+            <collab:IconButton class="changes-group-header__overflow-button btn-overflow" />
+        </engine:VisualElement>
+        <engine:VisualElement class="divider-horizontal" />
+    </engine:VisualElement>
+</engine:UXML>

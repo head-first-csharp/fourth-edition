@@ -1,0 +1,20 @@
+/* ProgressView Styles */
+
+.progress-view__label {
+    margin: var(--standard-margin);
+    padding: 0;
+}
+
+.progress-view__button {
+    margin: 0 var(--standard-margin) 0 0;
+}
+
+.progress-view__progress-bar {
+    margin: 0 var(--standard-margin);
+    padding: 0;
+}
+
+.progress-view__progress-bar .unity-progress-bar__progress {
+    background-image: none;
+    background-color: #388AFD;
+}

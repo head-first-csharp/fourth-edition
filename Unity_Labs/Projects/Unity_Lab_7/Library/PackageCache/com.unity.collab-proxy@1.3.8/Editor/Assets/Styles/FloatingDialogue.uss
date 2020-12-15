@@ -1,0 +1,17 @@
+/* FloatingDialogue Styles */
+
+.unity-floating-dialogue {
+    position: absolute;
+    border-width: 1px;
+    flex: 1 1 auto;
+}
+
+.dark .unity-floating-dialogue {
+    background-color: #383838;
+    border-color: rgba(35, 35, 35, 1);
+}
+
+.light .unity-floating-dialogue {
+    background-color: #C2C2C2;
+    border-color: rgba(107, 107, 107, 1);
+}

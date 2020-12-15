@@ -1,0 +1,21 @@
+/* Paginator Styles */
+
+.paginator__content {
+    align-items: center;
+    justify-content: space-between;
+    margin: var(--half-standard-margin) 0;
+}
+
+.paginator__page-text {
+    padding: 0;
+}
+
+.paginator__back-button {
+    border-width: 0;
+    margin-left: 0;
+}
+
+.paginator__forwards-button {
+    border-width: 0;
+    margin-right: 0;
+}

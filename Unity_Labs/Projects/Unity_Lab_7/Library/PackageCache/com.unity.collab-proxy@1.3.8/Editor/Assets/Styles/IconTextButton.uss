@@ -1,0 +1,19 @@
+/* IconTextButton Styles */
+
+.unity-icon-text-button {
+    flex-direction: row;
+}
+
+.unity-icon-text-button__image {
+    flex: var(--fixed-size);
+    width: var(--icon-size);
+    height: var(--icon-size);
+}
+
+.light .unity-icon-text-button.icon-publish .unity-icon-text-button__image {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/publish-light.png");
+}
+
+.dark .unity-icon-text-button.icon-publish .unity-icon-text-button__image {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/publish-dark.png");
+}

@@ -1,0 +1,13 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns:collab="Unity.Cloud.Collaborate.Components">
+    <engine:VisualElement class="changes-tab-page-view__container grow">
+        <collab:SearchBar class="changes-tab-page-view__search-bar" />
+        <engine:VisualElement class="changes-tab-page-view__entry-groups" />
+
+        <engine:VisualElement class="divider-horizontal" />
+
+        <collab:BetterTextField class="changes-tab-page-view__text-field" multiline="true" />
+        <engine:VisualElement>
+            <collab:IconTextButton class="changes-tab-page-view__publish-button icon-publish" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

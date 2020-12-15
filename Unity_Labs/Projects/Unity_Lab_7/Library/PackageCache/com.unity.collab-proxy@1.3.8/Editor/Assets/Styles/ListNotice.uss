@@ -1,0 +1,19 @@
+/* ListNotice Styles */
+
+.list-notice__container {
+    height: 32px;
+    align-items: center;
+}
+
+.list-notice__icon {
+    flex: var(--fixed-size);
+    width: var(--icon-size);
+    height: var(--icon-size);
+    background-color: darkslategrey;
+    margin-right: var(--icon-standard-margin);
+}
+
+.list-notice__text {
+    padding: 0;
+    margin: 0;
+}

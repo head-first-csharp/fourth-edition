@@ -1,0 +1,99 @@
+/* IconButton Styles */
+
+.unity-icon-button {
+    flex: var(--fixed-size);
+    width: var(--icon-size);
+    height: var(--icon-size);
+    border-radius: var(--half-icon-size);
+    background-color: var(--no-color);
+}
+
+.dark .unity-icon-button.btn-overflow {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/more-vert-dark.png");
+}
+
+.light .unity-icon-button.btn-overflow {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/more-vert-light.png");
+}
+
+.dark .unity-icon-button.btn-undo {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/undo-dark.png");
+}
+
+.light .unity-icon-button.btn-undo {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/undo-light.png");
+}
+
+.dark .unity-icon-button.btn-revert {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/revert-asset-dark.png");
+}
+
+.light .unity-icon-button.btn-revert {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/revert-asset-light.png");
+}
+
+.dark .unity-icon-button.btn-back {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark.png");
+}
+
+.light .unity-icon-button.btn-back {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light.png");
+}
+
+.dark .unity-icon-button.btn-show {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-dark.png");
+}
+
+.light .unity-icon-button.btn-show {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-light.png");
+}
+
+.dark .unity-icon-button.btn-merge {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-dark.png");
+}
+
+.light .unity-icon-button.btn-merge {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-light.png");
+}
+
+.dark .unity-icon-button.btn-choose-remote {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-dark.png");
+}
+
+.light .unity-icon-button.btn-choose-remote {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-light.png");
+}
+
+.dark .unity-icon-button.btn-choose-mine {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-mine-dark.png");
+}
+
+.light .unity-icon-button.btn-choose-mine {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-mine-light.png");
+}
+
+.dark .unity-icon-button.btn-diff {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-dark.png");
+}
+
+.light .unity-icon-button.btn-diff {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-light.png");
+}
+
+.dark .unity-icon-button:focus {
+    background-color: var(--dark-button-hover-focus-bg-color);
+}
+
+.light .unity-icon-button:focus {
+    background-color: var(--light-button-hover-focus-bg-color);
+}
+
+.dark .unity-icon-button:active,
+.dark .unity-icon-button:hover:active {
+    background-color: var(--dark-button-active-bg-color);
+}
+
+.light .unity-icon-button:active,
+.light .unity-icon-button:hover:active {
+    background-color: var(--light-button-active-bg-color);
+}

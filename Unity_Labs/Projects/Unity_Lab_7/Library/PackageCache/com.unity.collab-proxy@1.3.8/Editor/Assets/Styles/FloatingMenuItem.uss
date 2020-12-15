@@ -1,0 +1,26 @@
+/* FloatingMenuItem Styles */
+
+.unity-floating-menu-item {
+    justify-content: center;
+    padding: 0 var(--standard-padding);
+}
+
+.dark .unity-floating-menu-item:hover,
+.dark .unity-floating-menu-item:focus {
+    background-color: var(--dark-button-hover-focus-bg-color);
+}
+
+.light .unity-floating-menu-item:hover,
+.light .unity-floating-menu-item:focus {
+    background-color: var(--light-button-hover-focus-bg-color);
+}
+
+.dark .unity-floating-menu-item:active,
+.dark .unity-floating-menu-item:hover:active {
+    background-color: var(--dark-button-active-bg-color);
+}
+
+.light .unity-floating-menu-item:active,
+.light .unity-floating-menu-item:hover:active {
+    background-color: var(--light-button-active-bg-color);
+}

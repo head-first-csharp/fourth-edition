@@ -1,0 +1,77 @@
+/* Global Styles */
+
+/* can't use :root here for some reason -- the variables get lost when switching between changes and history tabs */
+* {
+    --standard-margin: 8px;
+    --half-standard-margin: 4px;
+    --quarter-standard-margin: 2px;
+    --standard-padding: var(--standard-margin);
+
+    --icon-size: 16px;
+    --half-icon-size: 8px;
+    --large-icon-size: 22px;
+    --half-large-icon-size: 11px;
+    --icon-standard-margin: var(--half-standard-margin);
+
+    --list-entry-height: 25px;
+    --list-entry-path-font-size: 10px;
+    --dark-list-entry-path-text-color: #949494;
+    --light-list-entry-path-text-color: #6B6B6B;
+
+    --profile-icon-font-size: 13px;
+
+    --no-color: rgba(0, 0, 0, 0);
+    --dark-placeholder-text-color: #7D7D7D;
+    --light-placeholder-text-color: #7D7D7D;
+
+    /* Colours used for custom buttons that don't have a border */
+    --dark-button-hover-focus-bg-color: #303030;
+    --light-button-hover-focus-bg-color: #B2B2B2;
+    --dark-button-active-bg-color: #484848;
+    --light-button-active-bg-color: #8F8F8F;
+
+    --divider-dark: #5F5F5F;
+    --divider-light: #9A9A9A;
+
+    --fixed-size: 0 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.divider-horizontal {
+    height: 1px;
+}
+
+.dark .divider-horizontal {
+    background-color: var(--divider-dark);
+}
+
+.light .divider-horizontal {
+    background-color: var(--divider-light);
+}
+
+.divider-vertical {
+    width: 1px;
+}
+
+.dark .divider-vertical {
+    background-color: var(--divider-dark);
+}
+
+.light .divider-vertical {
+    background-color: var(--divider-light);
+}
+
+.row {
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.grow {
+    flex-grow: 1;
+}

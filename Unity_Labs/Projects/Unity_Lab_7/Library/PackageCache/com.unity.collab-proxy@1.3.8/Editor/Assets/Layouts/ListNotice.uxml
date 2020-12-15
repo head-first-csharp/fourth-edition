@@ -1,0 +1,6 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements">
+    <engine:VisualElement class="list-notice__container row">
+        <engine:VisualElement class="list-notice__icon" />
+        <engine:Label class="list-notice__text" />
+    </engine:VisualElement>
+</engine:UXML>

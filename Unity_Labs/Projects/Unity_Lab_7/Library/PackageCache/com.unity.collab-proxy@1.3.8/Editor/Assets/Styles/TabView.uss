@@ -1,0 +1,42 @@
+.unity-tab-view {
+    flex-grow: 1;
+}
+
+.unity-tab-view__content-container {
+    flex: 1 1 auto;
+}
+
+.unity-tab-view__toolbar {
+    flex-direction: row;
+    border-bottom-width: 1px;
+}
+
+.dark .unity-tab-view__toolbar {
+    border-color: var(--divider-dark);
+}
+
+.light .unity-tab-view__toolbar {
+    border-color: var(--divider-light);
+}
+
+.unity-text-button.unity-tab-view__tab-header {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    border-width: 0;
+    border-bottom-width: 2px;
+    padding: 3px 0 2px;
+    margin-right: var(--standard-margin);
+}
+
+.unity-text-button.unity-tab-view__tab-header.active {
+    border-color: #357CC0;
+    background-color: var(--no-color);
+}
+
+.dark .unity-text-button.unity-tab-view__tab-header.active:active {
+    background-color: var(--no-color);
+}
+
+.light .unity-text-button.unity-tab-view__tab-header.active:active {
+    background-color: var(--no-color);
+}

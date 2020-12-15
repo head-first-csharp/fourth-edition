@@ -1,0 +1,60 @@
+/* HistoryEntryComponent Styles */
+
+.history-entry-component__container {
+    margin-top: var(--standard-margin);
+}
+
+.history-entry-component__profile-background {
+    flex: var(--fixed-size);
+    width: var(--large-icon-size);
+    height: var(--large-icon-size);
+    margin-right: var(--standard-margin);
+    border-radius: var(--half-large-icon-size);
+    background-color: #018d98;
+    justify-content: center;
+}
+
+.history-entry-component__profile-initial {
+    padding: 0;
+    -unity-text-align: middle-center;
+    font-size: var(--profile-icon-font-size);
+}
+
+.history-entry-component__top-row {
+    justify-content: space-between;
+    align-items: center;
+    height: var(--large-icon-size);
+}
+
+.history-entry-component__top-row .row {
+    align-items: center;
+}
+
+.history-entry-component__author-name,
+.history-entry-component__timestamp,
+.history-entry-component__revision-id,
+.history-entry-component__commit-message {
+    overflow: hidden;
+}
+
+.history-entry-component__commit-message {
+    white-space: normal;
+    margin: var(--standard-margin) 0;
+}
+
+.history-entry-component__changed-files-count {
+    -unity-text-align: middle-left;
+    -unity-font-style: bold;
+    flex: 1 1 auto;
+    padding-left: 0;
+    margin-top: var(--standard-margin);
+}
+
+.history-entry-component .divider-horizontal {
+    margin-top: var(--standard-margin);
+}
+
+.history-entry-component__changed-files {
+    flex-basis: 288px;
+    margin-bottom: var(--standard-margin);
+}

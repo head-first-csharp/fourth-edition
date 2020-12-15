@@ -1,0 +1,43 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns:collab="Unity.Cloud.Collaborate.Components">
+    <engine:VisualElement class="history-entry-component__container grow">
+
+        <engine:VisualElement class="row grow">
+            <!-- User initial in a circle on the left side -->
+            <engine:VisualElement class="column">
+                <engine:VisualElement class="history-entry-component__profile-background">
+                    <engine:Label class="history-entry-component__profile-initial" />
+                </engine:VisualElement>
+            </engine:VisualElement>
+            <!-- Entry body -->
+            <engine:VisualElement class="column grow">
+                <!-- Revision Info -->
+                <engine:VisualElement class="history-entry-component__top-row row">
+                    <engine:Label class="history-entry-component__author-name" />
+                    <engine:VisualElement class="row">
+                        <engine:Button class="history-entry-component__goto-button" />
+                        <collab:IconButton class="history-entry-component__overflow-button btn-overflow hidden" />
+                    </engine:VisualElement>
+                </engine:VisualElement>
+                <engine:VisualElement class="column">
+                    <engine:Label class="history-entry-component__timestamp" />
+                    <engine:Label class="history-entry-component__revision-id" />
+                </engine:VisualElement>
+
+                <!-- Revision Message -->
+                <engine:Label class="history-entry-component__commit-message grow" />
+
+                <engine:VisualElement class="row">
+                    <engine:Button class="history-entry-component__files-button" />
+                    <engine:Label class="history-entry-component__cloud-build-status" />
+                </engine:VisualElement>
+            </engine:VisualElement>
+
+        </engine:VisualElement>
+
+        <!-- Changed file list -->
+        <engine:Label class="history-entry-component__changed-files-count" />
+        <engine:VisualElement class="divider-horizontal" />
+        <collab:AdapterListView class="history-entry-component__changed-files" />
+
+    </engine:VisualElement>
+</engine:UXML>

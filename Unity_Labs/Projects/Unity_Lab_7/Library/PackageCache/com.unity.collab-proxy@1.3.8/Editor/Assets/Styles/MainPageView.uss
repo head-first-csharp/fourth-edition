@@ -1,0 +1,13 @@
+/* MainView Styles */
+
+.main-page-view {
+    flex-grow: 1;
+}
+
+.main-page-view__top-bar {
+    margin: var(--half-standard-margin) var(--standard-margin);
+}
+
+.main-page-view__tab-view {
+    margin: 0 var(--standard-margin);
+}

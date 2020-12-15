@@ -1,0 +1,100 @@
+/* BaseChangeEntry Styles */
+
+.base-change-list-element {
+    height: var(--list-entry-height);
+    align-items: center;
+}
+
+.base-change-list-element__container {
+    flex: 1 1 auto;
+    align-items: center;
+}
+
+.base-change-list-element__buttons,
+.base-change-list-element__icons {
+    align-items: center;
+    flex: var(--fixed-size);
+    flex-direction: row;
+}
+
+.base-change-list-element__button,
+.base-change-list-element__icon {
+    flex: var(--fixed-size);
+    width: var(--icon-size);
+    height: var(--icon-size);
+    margin-right: var(--icon-standard-margin);
+}
+
+.base-change-list-element__container:hover .base-change-list-element__button {
+    display: flex;
+}
+
+.base-change-list-element__button,
+.base-change-list-element__container:hover .base-change-list-element__button.hidden {
+    display: none;
+}
+
+.base-change-list-element__file-name {
+    flex: 0 0 auto;
+    margin: 0 var(--half-standard-margin) 0 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.base-change-list-element__file-path {
+    flex: 0 1 auto;
+    font-size: var(--list-entry-path-font-size);
+    padding: 0;
+    margin: 1px var(--half-standard-margin) 0 0;
+    overflow: hidden;
+}
+
+.dark .base-change-list-element__file-path {
+    color: var(--dark-list-entry-path-text-color);
+}
+
+.light .base-change-list-element__file-path {
+    color: var(--light-list-entry-path-text-color);
+}
+
+/* File status icons */
+
+.dark .base-change-list-element__icon.added {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark.png");
+}
+
+.light .base-change-list-element__icon.added {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light.png");
+}
+
+.dark .base-change-list-element__icon.moved {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-dark.png");
+}
+
+.light .base-change-list-element__icon.moved {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-light.png");
+}
+
+.dark .base-change-list-element__icon.edited {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-dark.png");
+}
+
+.light .base-change-list-element__icon.edited {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-light.png");
+}
+
+.dark .base-change-list-element__icon.deleted {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/deleted-file-dark.png");
+}
+
+.light .base-change-list-element__icon.deleted {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/deleted-file-light.png");
+}
+
+.dark .base-change-list-element__icon.conflicted {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/conflicted-file-dark.png");
+}
+
+.light .base-change-list-element__icon.conflicted {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/conflicted-file-light.png");
+}

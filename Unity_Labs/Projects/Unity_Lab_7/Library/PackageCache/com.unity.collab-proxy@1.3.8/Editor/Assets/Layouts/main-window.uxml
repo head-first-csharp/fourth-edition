@@ -1,0 +1,7 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements">
+
+    <engine:VisualElement class="main-window__container grow">
+
+    </engine:VisualElement>
+
+</engine:UXML>

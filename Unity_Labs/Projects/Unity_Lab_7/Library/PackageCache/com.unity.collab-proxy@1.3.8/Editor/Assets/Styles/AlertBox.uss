@@ -1,0 +1,52 @@
+/* AlertBox Styles */
+
+.alert-box {
+    flex: var(--fixed-size);
+}
+
+.alert-box__content {
+    padding: var(--standard-padding);
+}
+
+.alert-box__text {
+    margin-top: 1px;
+}
+
+.alert-box__button-box {
+    align-items: flex-end;
+}
+
+.alert-box__button {
+    margin-right: 0;
+}
+
+.alert-box__icon {
+    flex: var(--fixed-size);
+    width: var(--icon-size);
+    height: var(--icon-size);
+    margin-right: var(--icon-standard-margin);
+}
+
+.dark .alert-box__icon.icon-info {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-info-dark.png");
+}
+
+.light .alert-box__icon.icon-info {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-info-light.png");
+}
+
+.dark .alert-box__icon.icon-warning {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-warning-dark.png");
+}
+
+.light .alert-box__icon.icon-warning {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-warning-light.png");
+}
+
+.dark .alert-box__icon.icon-alert {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-error-dark.png");
+}
+
+.light .alert-box__icon.icon-alert {
+    background-image: resource("Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-error-light.png");
+}

@@ -1,0 +1,7 @@
+/* FloatingMenu Styles */
+
+.unity-floating-menu {
+    min-width: 144px;
+    min-height: 28px;
+    flex: 1 1 auto;
+}

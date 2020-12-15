@@ -1,0 +1,25 @@
+/* TextButton Styles */
+
+.unity-text-button {
+    border-width: 0;
+    padding: 3px 5px 2px;
+    margin: 0;
+}
+
+.dark .unity-text-button:focus {
+    background-color: var(--dark-button-hover-focus-bg-color);
+}
+
+.light .unity-text-button:focus {
+    background-color: var(--light-button-hover-focus-bg-color);
+}
+
+.dark .unity-text-button:active,
+.dark .unity-text-button:hover:active {
+    background-color: var(--dark-button-active-bg-color);
+}
+
+.light .unity-text-button:active,
+.light .unity-text-button:hover:active {
+    background-color: var(--light-button-active-bg-color);
+}

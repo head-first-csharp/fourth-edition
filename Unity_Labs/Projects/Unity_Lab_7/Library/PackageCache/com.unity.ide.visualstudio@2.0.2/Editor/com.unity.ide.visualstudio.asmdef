@@ -1,0 +1,9 @@
+{
+    "name": "Unity.VisualStudio.Editor",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
