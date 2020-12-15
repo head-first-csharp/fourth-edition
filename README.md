@@ -1,5 +1,5 @@
 # Head First C#, 4th Edition
-This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020). 
+This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020).
 
 ## Read the first four chapters today!
 
@@ -12,6 +12,14 @@ That PDF includes the complete introduction, chapters 1 through 4, the first two
 Try out our book today and see what you think!
 
 ☮️♥️👾 Jenny and Andrew
+
+## What will you learn from this book?
+
+Dive into C# and create apps, user interfaces, games, and more using this fun and highly visual introduction to C#, .NET Core, and Visual Studio. With this completely updated guide, which covers C# 8.0 and Visual Studio 2019, beginning programmers like you will build a fully functional game in the opening chapter. Then you'll learn how to use classes and object-oriented programming, create 3D games in Unity, and query data with LINQ. And you'll do it all by solving puzzles, doing hands-on exercises, and building real-world applications. By the time you're done, you'll be a solid C# programmer--and you'll have a great time along the way!
+
+## What's so special about this book?
+
+Based on the latest research in cognitive science and learning theory, Head First C# uses a visually rich format to engage your mind rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
 
 ## Video Walkthroughs
 
