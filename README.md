@@ -1,6 +1,19 @@
 # Head First C#, 4th Edition
 This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020).
 
+ * [Read the first four chapters today!](#read-the-first-four-chapters-today)
+ * [What will you learn from this book?](#what-will-you-learn-from-this-book)
+ * [What's so special about this book?](#whats-so-special-about-this-book)
+ * [Video Walkthroughs](#video-walkthroughs)
+ * [Downloadable projects](#downloadable-projects)
+ * [Download all of the Unity Labs](#download-all-of-the-unity-labs)
+    * [Unity Labs from the book](#unity-labs-from-the-book)
+    * [Additional Unity Labs](#additional-unity-labs)
+    * [Unity Lab code](#unity-lab-code)
+ * [All of the additional material that you can download](#all-of-the-additional-material-that-you-can-download)
+ * [Did you find an error in the book?](#did-you-find-an-error-in-the-book)
+ * [License and Copyright](#license-and-copyright)
+
 ## Read the first four chapters today!
 
 Do you want to learn C#? Are you trying to figure out if our book is right for you? We think our book is one of the most effective ways to learn C#. But you don't have to take our word for it! We want you to have the best C# learning experience possible, so to make things easy for you we've provided the **first four chapters of our book for free**.
@@ -51,7 +64,7 @@ In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the po
 * [Unity_Lab_5.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_5.pdf) – Raycasting
 * [Unity_Lab_6.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_6.pdf) – Scene Navigation
 
-### Additiona Unity Labs
+### Additional Unity Labs
 
 There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
 * [`Unity_Lab_7.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
