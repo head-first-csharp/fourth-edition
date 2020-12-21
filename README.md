@@ -89,7 +89,7 @@ Here's what you'll find in this repository:
 
 ## Did you find an error in the book?
 
-We worked really hard to make this book as error-free as possible! But we're only human, and we do occasionally make mistkaes. If you spot an error in the book, please use the [https://www.oreilly.com/catalog/errata.csp?isbn=9781491976708](O'Reilly errata page) to let us know about it. That way it goes into a database so we can keep track of it and fix it in future printings.
+We worked really hard to make this book as error-free as possible! But we're only human, and we do occasionally make mistkaes. If you spot an error in the book, please use the [O'Reilly errata page](https://www.oreilly.com/catalog/errata.csp?isbn=9781491976708) to let us know about it. That way it goes into a database so we can keep track of it and fix it in future printings.
 
 ![Head First C#, 4rd Edition – cover](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_C%23_4e_cover.png)
 
