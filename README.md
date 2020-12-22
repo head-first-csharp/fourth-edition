@@ -11,6 +11,7 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
     * [Additional Unity Labs](#additional-unity-labs)
     * [Unity Lab code](#unity-lab-code)
  * [All of the additional material that you can download](#all-of-the-additional-material-that-you-can-download)
+ * **[Did you run into a problem in the first chapter?](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)
  * [Did you find an error in the book?](#did-you-find-an-error-in-the-book)
  * [License and Copyright](#license-and-copyright)
 
