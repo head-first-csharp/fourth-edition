@@ -87,6 +87,17 @@ Here's what you'll find in this repository:
 * [`Unity Labs`](Unity_Labs) – PDFs and graphics files for the Unity Lab projects throughout the book
 * [`Billiard Ball Textures`](Unity_Labs/Billiard_Balls) – billiard ball textures for the Unity Lab projects
 
+## Did you run into trouble with the project in the first chapter?
+
+In the first chaper you jump right into a project to create an animal matching game to help you start learning about C# and Visual Studio. We've had many readers do this project—so don't worry, it definitely works! (In fact, some of our readers got especially creative with the project. You can [read more about it on the Visual Studio blog](https://devblogs.microsoft.com/visualstudio/head-first-csharp-contest-got-some-truly-creative-entries/).)
+
+While most readers are able to do this project without any trouble, you could run into problems if your code doesn't match the code in the book **exactly**. Here's what to do if you run into trouble with the project in the first chapter:
+* Compare the code line by line. It's really easy to miss a comma, semicolon, parentheses, equals sign, etc.
+* If you're following the WPF version, make sure that your XAML matches the XAML in the book **exactly**. If you're missing a TextBlock, you'll get an `ArgumentOutOfRangeException`.
+* If you're following the ASP.NET Blazor version, make sure that your HTML markup matches the markup in the book **exactly**.
+
+If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
+
 ## Did you find an error in the book?
 
 We worked really hard to make this book as error-free as possible! But we're only human, and we do occasionally make mistkaes. If you spot an error in the book, please use the [O'Reilly errata page](https://www.oreilly.com/catalog/errata.csp?isbn=9781491976708) to let us know about it. That way it goes into a database so we can keep track of it and fix it in future printings.
