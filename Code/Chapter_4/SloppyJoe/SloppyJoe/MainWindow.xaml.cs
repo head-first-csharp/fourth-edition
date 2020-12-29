@@ -69,7 +69,7 @@ namespace SloppyJoe
             guacamoleMenuItem.Generate();
             guacamolePrice = guacamoleMenuItem.Price;
 
-            guacamole.Text = "Add guacamole for " +guacamoleMenuItem.Price;
+            guacamole.Text = "Add guacamole for " + guacamolePrice;
         }
     }
 }
