@@ -89,24 +89,24 @@ namespace GoFishTests
             Assert.AreEqual(5, brittney.Hand.Count());
 
             var message = gameState.PlayRound(owen, brittney, Values.Jack, deck);
-            Assert.AreEqual(@"Owen asked Brittney for Jacks
-Brittney has 1 Jack card", message);
+            Assert.AreEqual("Owen asked Brittney for Jacks" + Environment.NewLine + 
+                "Brittney has 1 Jack card", message);
             Assert.AreEqual(1, owen.Books.Count());
             Assert.AreEqual(2, owen.Hand.Count());
             Assert.AreEqual(0, brittney.Books.Count());
             Assert.AreEqual(4, brittney.Hand.Count());
 
             message = gameState.PlayRound(brittney, owen, Values.Six, deck);
-            Assert.AreEqual(@"Brittney asked Owen for Sixes
-Owen has 2 Six cards", message);
+            Assert.AreEqual("Brittney asked Owen for Sixes" + Environment.NewLine +
+                "Owen has 2 Six cards", message);
             Assert.AreEqual(1, owen.Books.Count());
             Assert.AreEqual(2, owen.Hand.Count());
             Assert.AreEqual(1, brittney.Books.Count());
             Assert.AreEqual(2, brittney.Hand.Count());
 
             message = gameState.PlayRound(owen, brittney, Values.Queen, deck);
-            Assert.AreEqual(@"Owen asked Brittney for Queens
-Owen drew a card", message);
+            Assert.AreEqual("Owen asked Brittney for Queens" + Environment.NewLine +
+                "Owen drew a card", message);
             Assert.AreEqual(1, owen.Books.Count());
             Assert.AreEqual(2, owen.Hand.Count());
         }

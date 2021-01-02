@@ -33,14 +33,14 @@ namespace GoFishTests
             var gameController = new GameController("Owen", new List<string>() { "Brittney" });
 
             gameController.NextRound(gameController.Opponents.First(), Values.Six);
-            Assert.AreEqual(@"Owen asked Brittney for Sixes
-Brittney has 1 Six card
-Brittney asked Owen for Sevens
-Brittney drew a card
-Owen has 6 cards and 0 books
-Brittney has 5 cards and 0 books
-The stock has 41 cards
-", gameController.Status);
+            Assert.AreEqual("Owen asked Brittney for Sixes" +
+             Environment.NewLine + "Brittney has 1 Six card" +
+             Environment.NewLine + "Brittney asked Owen for Sevens" +
+             Environment.NewLine + "Brittney drew a card" +
+             Environment.NewLine + "Owen has 6 cards and 0 books" +
+             Environment.NewLine + "Brittney has 5 cards and 0 books" +
+             Environment.NewLine + "The stock has 41 cards" +
+             Environment.NewLine, gameController.Status);
         }
 
         [TestMethod]
