@@ -7,23 +7,16 @@ namespace HideAndSeekTests
     [TestClass]
     public class HouseTests
     {
-        House house;
-
-        [TestInitialize]
-        public void Initialize()
-        {
-            house = new House();
-        }
 
         [TestMethod]
         public void TestLayout()
         {
-            Assert.AreEqual("Entry", house.Entry.Name);
+            Assert.AreEqual("Entry", House.Entry.Name);
 
-            var garage = house.Entry.GetExit(Direction.Out);
+            var garage = House.Entry.GetExit(Direction.Out);
             Assert.AreEqual("Garage", garage.Name);
 
-            var hallway = house.Entry.GetExit(Direction.East);
+            var hallway = House.Entry.GetExit(Direction.East);
             Assert.AreEqual("Hallway", hallway.Name);
 
             var kitchen = hallway.GetExit(Direction.Northwest);

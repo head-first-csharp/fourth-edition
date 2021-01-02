@@ -4,17 +4,17 @@ using System.Text;
 
 namespace HideAndSeek
 {
-    public class House
+    public static class House
     {
         /// <summary>
         /// Returns the starting location for the player
         /// </summary>
-        public readonly Location Entry;
-        
+        public static readonly Location Entry;
+
         /// <summary>
         /// Sets up the house data structure
         /// </summary>
-        public House()
+        static House()
         {
             Entry = new Location("Entry");
             var hallway = new Location("Hallway");

@@ -6,8 +6,6 @@ namespace HideAndSeek
 {
     public class GameController
     {
-        private House house = new House();
-
         /// <summary>
         /// The player's current location in the house
         /// </summary>
@@ -26,7 +24,7 @@ namespace HideAndSeek
 
         public GameController()
         {
-            CurrentLocation = house.Entry;
+            CurrentLocation = House.Entry;
         }
 
         /// <summary>
