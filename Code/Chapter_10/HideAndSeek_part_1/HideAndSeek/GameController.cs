@@ -14,8 +14,9 @@ namespace HideAndSeek
         /// <summary>
         /// Returns the the current status to show to the player
         /// </summary>
-        public string Status => $@"You are in the {CurrentLocation}. You see the following exits:
- - {string.Join(Environment.NewLine + " - ", CurrentLocation.ExitList)}";
+        public string Status => $"You are in the {CurrentLocation}. You see the following exits:" +
+            Environment.NewLine +
+            $" - {string.Join(Environment.NewLine + " - ", CurrentLocation.ExitList)}";
 
         /// <summary>
         /// A prompt to display to the player

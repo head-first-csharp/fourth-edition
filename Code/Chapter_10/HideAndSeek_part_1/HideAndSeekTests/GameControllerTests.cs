@@ -3,6 +3,7 @@
 namespace HideAndSeekTests
 {
     using HideAndSeek;
+    using System;
 
     [TestClass]
     public class GameControllerTests
@@ -45,16 +46,16 @@ namespace HideAndSeekTests
             Assert.AreEqual(initialStatus, gameController.Status);
 
             Assert.AreEqual("Moving East", gameController.ParseInput("East"));
-            Assert.AreEqual(@"You are in the Hallway. You see the following exits:
- - the Bathroom is to the North
- - the Living Room is to the South
- - the Entry is to the West
- - the Kitchen is to the Northwest
- - the Landing is Up", gameController.Status);
+            Assert.AreEqual("You are in the Hallway. You see the following exits:" +
+                            Environment.NewLine + " - the Bathroom is to the North" +
+                            Environment.NewLine + " - the Living Room is to the South" +
+                            Environment.NewLine + " - the Entry is to the West" +
+                            Environment.NewLine + " - the Kitchen is to the Northwest" +
+                            Environment.NewLine + " - the Landing is Up", gameController.Status);
 
             Assert.AreEqual("Moving South", gameController.ParseInput("South"));
-            Assert.AreEqual(@"You are in the Living Room. You see the following exits:
- - the Hallway is to the North", gameController.Status);
+            Assert.AreEqual("You are in the Living Room. You see the following exits:" +
+                            Environment.NewLine + " - the Hallway is to the North", gameController.Status);
 
             // Add more input parsing tests to the TestParseInput test method
         }
