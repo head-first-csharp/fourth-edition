@@ -21,7 +21,7 @@ namespace HideAndSeek
         /// <summary>
         /// A prompt to display to the player
         /// </summary>
-        public const string Prompt = "Which direction do you want to go: ";
+        public string Prompt => "Which direction do you want to go: ";
 
         public GameController()
         {

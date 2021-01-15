@@ -10,7 +10,7 @@ namespace HideAndSeek
             while (true)
             {
                 Console.WriteLine(gameController.Status);
-                Console.Write(GameController.Prompt);
+                Console.Write(gameController.Prompt);
                 Console.WriteLine(gameController.ParseInput(Console.ReadLine()));
             }
         }
