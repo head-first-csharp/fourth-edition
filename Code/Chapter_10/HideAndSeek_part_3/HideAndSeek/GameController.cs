@@ -66,7 +66,7 @@ namespace HideAndSeek
         /// <summary>
         /// A Dictionary to keep track of the opponent locations
         /// </summary>
-        private Dictionary<String, String> opponentLocations = new Dictionary<String, String>();
+        private Dictionary<string, string> opponentLocations = new Dictionary<string, string>();
 
         public GameController()
         {
@@ -147,7 +147,7 @@ namespace HideAndSeek
         /// </summary>
         /// <param name="filename">Name of the file (without extension)</param>
         /// <returns>Results of the save to display to the player</returns>
-        public string Save(String filename)
+        public string Save(string filename)
         {
             if (filename.Contains("/") || filename.Contains("\\") || filename.Contains(" "))
                 return "Please enter a filename without slashes or spaces.";
@@ -171,7 +171,7 @@ namespace HideAndSeek
         /// </summary>
         /// <param name="filename">Name of the file (without extension)</param>
         /// <returns>Results of the save to display to the player</returns>
-        public string Load(String filename)
+        public string Load(string filename)
         {
             if (filename.Contains("/") || filename.Contains("\\") || filename.Contains(" "))
                 return "Please enter a filename without slashes or spaces.";
