@@ -213,5 +213,13 @@ namespace HideAndSeekTests
             File.Delete(filename);
             Assert.IsTrue(!File.Exists(filename));
         }
+
+        [TestMethod]
+        public void TestInvalidFilenames()
+        {
+            Assert.AreEqual("Please enter a filename without slashes or spaces.", gameController.Save("invalid\\filename"));
+            Assert.AreEqual("Please enter a filename without slashes or spaces.", gameController.Save("invalid/filename"));
+            Assert.AreEqual("Please enter a filename without slashes or spaces.", gameController.Save("invalid filename"));
+        }
     }
 }
