@@ -49,7 +49,7 @@ Some of the chapters have **downloadable projects**. You can download PDFs of th
 * [`Chapter_8_Blazor_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_8_Blazor_project.pdf) – The Blazor project from Chapter 8
 * [`Chapter_9_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_9_project.pdf) – The *Go Fish!* project from Chapter 9
 * [`Chapter_10_project.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_10_project.pdf) – The *Hide and Seek* project from Chapter 10
-* `Chapter_12_boss_battle.pdf` – *We're working really hard to finish this for you! It'll be online very soon.*
+* [`Chapter_12_boss_battle.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Downloadable_projects/Chapter_12_boss_battle.pdf) – The *Animal Match Game boss battle* project at the end of the book
 
 ***NOTE:** The downloadable projects for these chapters are **early release** PDFs! That means that while the code works, the projects are complete, and we've done our initial review of them, we're still working on polishing them up and putting the final touches on them. But you can definitely start using them today!**
 
