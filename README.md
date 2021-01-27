@@ -99,6 +99,20 @@ While most readers are able to do this project without any trouble, you could ru
 
 If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
 
+### Are you getting "Debugger operation failed" when you start your Blazor app?
+
+If you're following the Visual Studio for Mac Learner's Guide, the very first step is creating an ASP.NET Blazor WebAssembly App project and running it. If you run into an "Unable to launch browser" error or an error that mentions certificates, it probably means there's a small setup issue that you need to fix. Open Terminal and run the following commands:
+
+ 1. Change `Properties/launchSetting.json/` and move the ports from 5000 and 5001 to somthing else (try changing to 5006 and 5007 respectively)
+ 2. Open Terminal
+ 3. Type:  `$ dontnet dev-certs https --clean`
+ 4. Then Type: `$ dotnet dev-certs https --trust`
+ 5. Try again
+
+This redeploys the developer certificates, which lets your browser trust Visual Studio to allow debugging.
+
+_special thanks to [Twitter user Chris Jackson @Sirhc7001](https://twitter.com/Sirhc7001/status/1354489560093265920) for **very quickly** finding the solution! You can read more about it here: [`dotnet quits unexpectedly on mac os #12317`](https://github.com/dotnet/runtime/issues/12317)_
+
 ## Did you find an error in the book?
 
 We worked really hard to make this book as error-free as possible! But we're only human, and we do occasionally make mistkaes. If you spot an error in the book, please use the [O'Reilly errata page](https://www.oreilly.com/catalog/errata.csp?isbn=9781491976708) to let us know about it. That way it goes into a database so we can keep track of it and fix it in future printings.
