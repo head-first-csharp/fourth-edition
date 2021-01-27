@@ -105,7 +105,7 @@ If you're following the Visual Studio for Mac Learner's Guide, the very first st
 
  1. Change `Properties/launchSetting.json/` and move the ports from 5000 and 5001 to somthing else (try changing to 5006 and 5007 respectively)
  2. Open Terminal
- 3. Type:  `$ dontnet dev-certs https --clean`
+ 3. Type:  `$ dotnet dev-certs https --clean`
  4. Then Type: `$ dotnet dev-certs https --trust`
  5. Try again
 
