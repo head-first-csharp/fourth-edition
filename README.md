@@ -12,6 +12,7 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
     * [Unity Lab code](#unity-lab-code)
  * [All of the additional material that you can download](#all-of-the-additional-material-that-you-can-download)
  * [**Did you run into a problem in the first chapter?**](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)
+ * [**Did you run into trouble with pages 77 and 78?**](#did-you-run-into-trouble-with-pages-77-and-78)
  * [Did you find an error in the book?](#did-you-find-an-error-in-the-book)
  * [License and Copyright](#license-and-copyright)
 
@@ -98,6 +99,10 @@ While most readers are able to do this project without any trouble, you could ru
 * If you're following the ASP.NET Blazor version, make sure that your HTML markup matches the markup in the book **exactly**.
 
 If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
+
+## Did you run into trouble with pages 77 and 78?
+
+In some early printings of Head First C# (4th edition), pages 77 and 78 were reversed! These are the corrected pages, with the steps in the proper order: [Corrected_pages_77_and_78.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Additional_material/Corrected_pages_77_and_78.pdf)
 
 ### Are you getting "Debugger operation failed" when you start your Blazor app?
 
