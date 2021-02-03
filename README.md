@@ -5,7 +5,11 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
  * [What will you learn from this book?](#what-will-you-learn-from-this-book)
  * [What's so special about this book?](#whats-so-special-about-this-book)
  * [Video Walkthroughs](#video-walkthroughs)
- * [Downloadable projects](#downloadable-projects)
+ * [How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)
+    * [Use the GitHub website to browse the code](#use-the-github-website-to-browse-the-code)
+    * [Load the chapter projects in Visual Studio](#load-the-chapter-projects-in-visual-studio)
+    * [Load the Unity projects with Unity Hub](#load-the-unity-projects-with-unity-hub)
+ * [Downloadable project PDFs](#downloadable-project-pdfs)
  * [Download all of the Unity Labs](#download-all-of-the-unity-labs)
     * [Unity Labs from the book](#unity-labs-from-the-book)
     * [Additional Unity Labs](#additional-unity-labs)
@@ -40,7 +44,48 @@ Based on the latest research in cognitive science and learning theory, Head Firs
 
 Find the video walkthroughs for Chapter 1 on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured).
 
-## Downloadable projects
+## How to use the code in this repository to follow along with the book
+
+This repository contains all of the code for every project in the book.
+
+The code for the projects in each chapter is in the [`Code` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code). 
+* The `Code` folder subfolder for each chapter. For example, the code for all of the projects in Chapter 2 are in the [`Code/Chapter_2` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_2).
+* Inside each chapter folder you'll find each of the projects. For example, the PickRandomCards Console App project on page 106 in Chapter 3 is in the [`Code/Chapter_3/PickRandomCards` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickRandomCards).
+* When there are both WPF and Blazor versions of a project, the chapter folder will contain both of them. For example, on page 118 you create a WPF version of the card picker app called PickACardUI, which you can find in [`Code/Chapter_3/PickACardUI`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickACardUI). The code for the Blazor version on page 714 is in [`Code/Chapter_3/PickACardBlazor`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickACardBlazor).
+* Code solutions for the *Sharpen Your Pencil*, *Pool Puzzle*, *Magnets*, and other pencil-and-paper exercise can also be found in the chapter folders. For example, Chapter 3 has two *Sharpen Your Pencil* exercises that have code solutions that run. The first one is on page 135, and the code can be found in [`Code/Chapter_3/SharpenYourPencil`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/SharpenYourPencil). The second one is on page 153, and the code can be found in [`Code/Chapter_3/SharpenYourPencil_2`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/SharpenYourPencil_2).
+* The code for the Unity Lab projects can be found in the [`Unity_Labs/Projects`](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity_Labs/Projects) folder.
+
+### Use the GitHub website to browse the code
+
+The most common way people use the code on this website is to look at our solution. (Remember, it's ***not** cheating* to look at our solution while you're solving the problem! That's a valid and often very effective way to learn.) You 
+
+* In a code folder, you'll see a **solution file** that ends with `.sln`. Visual Stuido uses this file when you load the code. You can ignore it if you're reading the code on the GitHub page.
+* The code folder contains a **project folder** with the actual code. Most of the solutions in the book contain one project (in Chapter 9 you'll learn about unit testing, and create solutions with more than one proejct). 
+  * For example, the code for the PickRandomCards project in Chapter 3 on page 106 is in the [`Code/Chapter_3/PickRandomCards/PickRandomCards` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickRandomCards/PickRandomCards).
+  * The CardPicker class that you finish on page 110 is in [`Code/Chapter_3/PickRandomCards/PickRandomCards/CardPicker.cs`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickRandomCards/PickRandomCards/CardPicker.cs)
+
+### Load the chapter projects in Visual Studio
+
+All of the projects for each chapter can be loaded in Visual Studio. The easiest way to run the code from this repository is to download and extract a zip of the entire repository:
+1. Go to the [top page in the repository](https://github.com/head-first-csharp/fourth-edition).
+2. Click the **Code** dropdown button just above and to the right of the code listing.
+3. Choose "Download zip" to download a zip file of the entire repository. Here's a direct link to download it: [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip)
+4. Extract `master.zip` – it has all of the files in the repository.
+5. Go to the chapter folder (e.g. `Code/Chapter_3`) and open the project folder inside it (e.g. `PickRandomCards`).
+6. Double-click on the solution (`.sln`) file to open it in Visual Studio. You can also use the Visual Studio menu to open an existing project, navigate to the solution (`.sln`) file, and open it.
+
+*Note that the Blazor projects can all be loaded in Visual Studio 2019 on Windows. There is currently no macOS support for WPF, so Visual Studio for Mac will not load the Mac projects.)
+
+### Load the Unity projects with Unity Hub
+
+You can use Unity Hub to load the Unity projects from this repository.
+1. Download  [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip) and extract it.
+3. Follow the instructions in [Unity_Lab_1.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1.pdf) to make sure Unity Hub is installed, as well as the version of Unity that we used to create the Unity Labs.
+4. Open Unity Hub, click the Add button, and navigate to the folder with a Unity project (e.g. `Unity_Labs/Projects/Unity_Labs_1_and_2`), and click Open to add it to the project list in Unity Hub.
+5. Double-click on the project in Unity Hub to open the proejct.
+6. If the scene appears to be empty once Unity loads the project, load the scene by choosing *File >> Open Scene* from the menu, navigating to the Scenes folder, and opening `Sample Scene.unity`.
+
+## Downloadable project PDFs
 
 Some of the chapters have **downloadable projects**. You can download PDFs of those projects here:
 
