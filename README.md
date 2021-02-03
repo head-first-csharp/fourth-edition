@@ -67,12 +67,11 @@ The most common way people use the code on this website is to look at our soluti
 ### Load the chapter projects in Visual Studio
 
 All of the projects for each chapter can be loaded in Visual Studio. The easiest way to run the code from this repository is to download and extract a zip of the entire repository:
-1. Go to the [top page in the repository](https://github.com/head-first-csharp/fourth-edition).
-2. Click the **Code** dropdown button just above and to the right of the code listing.
-3. Choose "Download zip" to download a zip file of the entire repository. Here's a direct link to download it: [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip)
-4. Extract `master.zip` – it has all of the files in the repository.
-5. Go to the chapter folder (e.g. `Code/Chapter_3`) and open the project folder inside it (e.g. `PickRandomCards`).
-6. Double-click on the solution (`.sln`) file to open it in Visual Studio. You can also use the Visual Studio menu to open an existing project, navigate to the solution (`.sln`) file, and open it.
+1. Download the zip file of the entire repository. Here's a direct link to download it: [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip) – it may get saved as `fourth-edition-master.zip`.
+  * You can also find that link by going to the [top page in the repository](https://github.com/head-first-csharp/fourth-edition), clicking the *Code* dropdown button just above and to the right of the code listing, and choosing *Download zip*
+2. Extract `master.zip` (or `fourth-edition-master.zip`) – it has all of the files in the repository.
+3. Go to the chapter folder (e.g. `Code/Chapter_3`) and open the project folder inside it (e.g. `PickRandomCards`).
+4. Double-click on the solution (`.sln`) file to open it in Visual Studio. You can also use the Visual Studio menu to open an existing project, navigate to the solution (`.sln`) file, and open it.
 
 *Note that the Blazor projects can all be loaded in Visual Studio 2019 on Windows. There is currently no macOS support for WPF, so Visual Studio for Mac will not load the Mac projects.)
 
