@@ -1,9 +1,11 @@
 # Head First C#, 4th Edition
 This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of *Head First C#* (O'Reilly Media 2020).
 
-![](Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png)
+<img src="Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png"/><br/>
+***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
-### ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
+<img src="Images/Step-by-step-instructions-to-download-code.png"/><br/>
+***[How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)***
 
 ## What's on this page
 
