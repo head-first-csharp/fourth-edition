@@ -1,9 +1,0 @@
-<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns:collab="Unity.Cloud.Collaborate.Components">
-
-    <engine:VisualElement class="error-view__container">
-
-        <collab:AlertBox />
-
-    </engine:VisualElement>
-
-</engine:UXML>

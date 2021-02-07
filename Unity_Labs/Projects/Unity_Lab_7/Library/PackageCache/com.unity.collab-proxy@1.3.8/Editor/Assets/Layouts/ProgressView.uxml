@@ -1,9 +1,0 @@
-<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements">
-    <engine:VisualElement class="progress-view__container grow">
-        <engine:Label class="progress-view__label" />
-        <engine:VisualElement class="row grow">
-            <editor:ProgressBar class="progress-view__progress-bar grow" />
-            <engine:Button class="progress-view__button" />
-        </engine:VisualElement>
-    </engine:VisualElement>
-</engine:UXML>

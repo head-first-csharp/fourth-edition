@@ -1,6 +1,0 @@
-/* ToggleableChangeEntry Styles */
-
-.toggleable-change-list-element__toggle {
-    padding: 0;
-    margin: 0 var(--half-standard-margin) 0 var(--quarter-standard-margin);
-}

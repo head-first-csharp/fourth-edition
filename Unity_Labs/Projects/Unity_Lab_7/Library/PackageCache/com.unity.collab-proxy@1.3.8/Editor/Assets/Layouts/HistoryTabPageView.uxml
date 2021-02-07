@@ -1,7 +1,0 @@
-<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns:collab="Unity.Cloud.Collaborate.Components" xmlns:oldcollab="Unity.Cloud.Collaborate.Components">
-    <engine:VisualElement class="history-page__container grow default-inset">
-        <collab:Paginator class="history-page__paginator" />
-        <oldcollab:ListNotice class="history-page__notice" />
-        <engine:ScrollView class="history-page__content grow" />
-    </engine:VisualElement>
-</engine:UXML>
