@@ -52,7 +52,7 @@ Find the video walkthroughs for Chapter 1 on our [YouTube channel](https://www.y
 
 This repository contains all of the code for every project in the book. We created a video walkthrough to help
 
-[Video walkthrough: Getting Started with Head First C#: Installing Visual Studio 2019 and downloading code from the book](https://www.youtube.com/watch?v=73PGlIbkvV8)
+[![Video walkthrough: Getting Started with Head First C#: Installing Visual Studio 2019 and downloading code from the book](Images/YouTube-getting-started.png)](https://www.youtube.com/watch?v=73PGlIbkvV8)
 
 You can jump directly to the different sections of the video:
 * Installing Visual Studio - [1:20](https://www.youtube.com/watch?v=73PGlIbkvV8&t=80s)
