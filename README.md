@@ -3,7 +3,7 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
 
 ![](Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png)
 
-***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
+### ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
 ## What's on this page
 
@@ -152,13 +152,13 @@ Here's what you'll find in this repository:
 
 In the first chaper you jump right into a project to create an animal matching game to help you start learning about C# and Visual Studio. We've had many readers do this project—so don't worry, it definitely works! (In fact, some of our readers got especially creative with the project. You can [read more about it on the Visual Studio blog](https://devblogs.microsoft.com/visualstudio/head-first-csharp-contest-got-some-truly-creative-entries/).)
 
-The most common problem people run into is an exception with the message `System.ArgumentOutOfRangeException: 'Index was out of range. …'` – here's a screenshot of what that looks like:
+The most common problem people run into is an exception with the message `System.ArgumentOutOfRangeException: 'Index was out of range.'` Here's a screenshot of what that looks like:
 
 ![Screenshot of Visual Studio 2019 showing 'index out of range' exception](Images/MatchGame_index_out_of_range_exception.png)
 
-If you get this error, make sure that your C# code and XAML matche the C# code and XAML in the book **exactly**: you need to have exactly 16 `<TextBlock>…</TextBlock>` lines in your XAML, and eight matching pairs of animal emoji. 
+If you get this error, make sure that your C# code and XAML match the C# code and XAML in the book **exactly**: you need to have 16 `<TextBlock>…</TextBlock>` lines in your XAML, and eight matching pairs of animal emoji in the `animalEmoji` list. 
 
-*(This exception happens because your `foreach` loop is pulling an emoji out of the `animalEmoji` list for each TextBlock. If you have an extra TextBlock or if you're missing an emoji, it will run out of animals before it runs out of TextBlocks to add them to, and that's what causes the exception.)*
+*(This exception happens because your `foreach` loop is pulling an emoji out of the `animalEmoji` list for each TextBlock and then removing it from the list. If you have an extra TextBlock or if you're missing an emoji, your `foreach` loop will run out of animals before it runs out of TextBlocks to add them to. It will try to get a random emoji from the empty `animalEmoji` list, and that's what causes the exception.)*
 
 While most readers are able to do this project without any trouble, you could run into problems if your code doesn't match the code in the book **exactly**. Here's what to do if you run into trouble with the project in the first chapter:
 * Compare the code line by line. It's really easy to miss a comma, semicolon, parentheses, equals sign, etc.
