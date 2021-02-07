@@ -56,14 +56,14 @@ Find the video walkthroughs for Chapter 1 on our [YouTube channel](https://www.y
 
 This repository contains all of the code for every project in the book. We created a video walkthrough to help
 
-[![Video walkthrough: Getting Started with Head First C#: Installing Visual Studio 2019 and downloading code from the book](Images/YouTube-getting-started.png)](https://www.youtube.com/watch?v=73PGlIbkvV8)
+[![Video walkthrough: Getting Started with Head First C#: Installing Visual Studio 2019 and downloading code from the book](Images/YouTube-getting-started.png)](https://www.youtube.com/watch?v=73PGlIbkvV8&ab_channel=HeadFirstC%23)
 
 You can jump directly to the different sections of the video:
-* Installing Visual Studio - [1:20](https://www.youtube.com/watch?v=73PGlIbkvV8&t=80s)
-* Launch Visual Studio and create a "Hello World" app - [8:30](https://www.youtube.com/watch?v=73PGlIbkvV8&t=510s)
-* Download the code from the book and run the Animal Matching game project from Chapter 1 - [10:30](https://www.youtube.com/watch?v=73PGlIbkvV8&t=630s)
-* Run the ASP.NET Blazor WebAssembly Animal Matching game from the Visual Studio for Mac Learner's Guide - [12:45](https://www.youtube.com/watch?v=73PGlIbkvV8&t=765s)
-* Run the .NET Core Console App Hide and Seek game from Chapter 10 - [14:35](https://www.youtube.com/watch?v=73PGlIbkvV8&t=875s)
+* Installing Visual Studio - [1:20](https://www.youtube.com/watch?v=73PGlIbkvV8&t=80s&ab_channel=HeadFirstC%23)
+* Launch Visual Studio and create a "Hello World" app - [8:30](https://www.youtube.com/watch?v=73PGlIbkvV8&t=510s&ab_channel=HeadFirstC%23)
+* Download the code from the book and run the Animal Matching game project from Chapter 1 - [10:30](https://www.youtube.com/watch?v=73PGlIbkvV8&t=630s&ab_channel=HeadFirstC%23)
+* Run the ASP.NET Blazor WebAssembly Animal Matching game from the Visual Studio for Mac Learner's Guide - [12:45](https://www.youtube.com/watch?v=73PGlIbkvV8&t=765s&ab_channel=HeadFirstC%23)
+* Run the .NET Core Console App Hide and Seek game from Chapter 10 - [14:35](https://www.youtube.com/watch?v=73PGlIbkvV8&t=875s&ab_channel=HeadFirstC%23)
 
 The code for the projects in each chapter is in the [`Code` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code). 
 * The `Code` folder subfolder for each chapter. For example, the code for all of the projects in Chapter 2 are in the [`Code/Chapter_2` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_2).
