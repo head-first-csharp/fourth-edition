@@ -21,6 +21,7 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
  * [License and Copyright](#license-and-copyright)
 
 ![](Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png)
+
 ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
 ## Read the first four chapters today!
@@ -49,7 +50,16 @@ Find the video walkthroughs for Chapter 1 on our [YouTube channel](https://www.y
 
 ## How to use the code in this repository to follow along with the book
 
-This repository contains all of the code for every project in the book.
+This repository contains all of the code for every project in the book. We created a video walkthrough to help
+
+[Video walkthrough: Getting Started with Head First C#: Installing Visual Studio 2019 and downloading code from the book](https://www.youtube.com/watch?v=73PGlIbkvV8)
+
+You can jump directly to the different sections of the video:
+* Installing Visual Studio - [1:20](https://www.youtube.com/watch?v=73PGlIbkvV8&t=80s)
+* Launch Visual Studio and create a "Hello World" app - [8:30](https://www.youtube.com/watch?v=73PGlIbkvV8&t=510s)
+* Download the code from the book and run the Animal Matching game project from Chapter 1 - [10:30](https://www.youtube.com/watch?v=73PGlIbkvV8&t=630s)
+* Run the ASP.NET Blazor WebAssembly Animal Matching game from the Visual Studio for Mac Learner's Guide - [12:45](https://www.youtube.com/watch?v=73PGlIbkvV8&t=765s)
+* Run the .NET Core Console App Hide and Seek game from Chapter 10 - [14:35](https://www.youtube.com/watch?v=73PGlIbkvV8&t=875s)
 
 The code for the projects in each chapter is in the [`Code` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code). 
 * The `Code` folder subfolder for each chapter. For example, the code for all of the projects in Chapter 2 are in the [`Code/Chapter_2` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_2).
