@@ -20,6 +20,9 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
  * [Did you find an error in the book?](#did-you-find-an-error-in-the-book)
  * [License and Copyright](#license-and-copyright)
 
+![](Images/Did-you-run-into-a-problem-in-Chapter-1.png)
+***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
+
 ## Read the first four chapters today!
 
 Do you want to learn C#? Are you trying to figure out if our book is right for you? We think our book is one of the most effective ways to learn C#. But you don't have to take our word for it! We want you to have the best C# learning experience possible, so to make things easy for you we've provided the **first four chapters of our book for free**.
@@ -137,9 +140,16 @@ Here's what you'll find in this repository:
 
 In the first chaper you jump right into a project to create an animal matching game to help you start learning about C# and Visual Studio. We've had many readers do this project—so don't worry, it definitely works! (In fact, some of our readers got especially creative with the project. You can [read more about it on the Visual Studio blog](https://devblogs.microsoft.com/visualstudio/head-first-csharp-contest-got-some-truly-creative-entries/).)
 
+The most common problem people run into is an exception with the message `System.ArgumentOutOfRangeException: 'Index was out of range. …'` – here's a screenshot of what that looks like:
+
+![Screenshot of Visual Studio 2019 showing 'index out of range' exception](Images/MatchGame_index_out_of_range_exception.png)
+
+If you get this error, make sure that your C# code and XAML matche the C# code and XAML in the book **exactly**: you need to have exactly 16 `<TextBlock>…</TextBlock>` lines in your XAML, and eight matching pairs of animal emoji. 
+
+*(This exception happens because your `foreach` loop is pulling an emoji out of the `animalEmoji` list for each TextBlock. If you have an extra TextBlock or if you're missing an emoji, it will run out of animals before it runs out of TextBlocks to add them to, and that's what causes the exception.)*
+
 While most readers are able to do this project without any trouble, you could run into problems if your code doesn't match the code in the book **exactly**. Here's what to do if you run into trouble with the project in the first chapter:
 * Compare the code line by line. It's really easy to miss a comma, semicolon, parentheses, equals sign, etc.
-* If you're following the WPF version, make sure that your XAML matches the XAML in the book **exactly**. If you're missing a TextBlock, you'll get an `ArgumentOutOfRangeException`.
 * If you're following the ASP.NET Blazor version, make sure that your HTML markup matches the markup in the book **exactly**.
 
 If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
