@@ -4,7 +4,9 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
 <img src="Images/Step-by-step-instructions-to-download-code.png" width="450"/><br/>
 ***[How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)***
 
-<br/><img src="Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png" width="500"/><br/>
+Here's a direct link to download all of the code: [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip) – it may get saved as `fourth-edition-master.zip`.
+
+<img src="Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png" width="500"/><br/>
 ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
 ## What's on this page
@@ -42,7 +44,7 @@ Try out our book today and see what you think!
 
 ## What will you learn from this book?
 
-Dive into C# and create apps, user interfaces, games, and more using this fun and highly visual introduction to C#, .NET Core, and Visual Studio. With this completely updated guide, which covers C# 8.0 and Visual Studio 2019, beginning programmers like you will build a fully functional game in the opening chapter. Then you'll learn how to use classes and object-oriented programming, create 3D games in Unity, and query data with LINQ. And you'll do it all by solving puzzles, doing hands-on exercises, and building real-world applications. By the time you're done, you'll be a solid C# programmer--and you'll have a great time along the way!
+Dive into C# and create apps, user interfaces, games, and more using this fun and highly visual introduction to C#, .NET Core, and Visual Studio. With this completely updated guide, which covers C# 8.0 and Visual Studio 2019, beginning programmers like you will build a fully functional game in the opening chapter. Then you'll learn how to use classes and object-oriented programming, create 3D games in Unity, and query data with LINQ. And you'll do it all by solving puzzles, doing hands-on exercises, and building real-world applications. By the time you're done, you'll be a solid C# programmer—and you'll have a great time along the way!
 
 ## What's so special about this book?
 
