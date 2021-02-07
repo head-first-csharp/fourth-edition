@@ -20,7 +20,7 @@ This GitHub project contains source code, downloadable PDFs, graphics, and addit
  * [Did you find an error in the book?](#did-you-find-an-error-in-the-book)
  * [License and Copyright](#license-and-copyright)
 
-![](Images/Did-you-run-into-a-problem-in-Chapter-1.png)
+![](Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png)
 ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
 ## Read the first four chapters today!
