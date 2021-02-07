@@ -152,7 +152,7 @@ Here's what you'll find in this repository:
 
 In the first chaper you jump right into a project to create an animal matching game to help you start learning about C# and Visual Studio. We've had many readers do this project—so don't worry, it definitely works! (In fact, some of our readers got especially creative with the project. You can [read more about it on the Visual Studio blog](https://devblogs.microsoft.com/visualstudio/head-first-csharp-contest-got-some-truly-creative-entries/).)
 
-The most common problem people run into is an exception with the message `System.ArgumentOutOfRangeException: 'Index was out of range. …'` – here's a screenshot of what that looks like:
+The most common problem people run into is an exception with the message `System.ArgumentOutOfRangeException: 'Index was out of range.'` Here's a screenshot of what that looks like:
 
 ![Screenshot of Visual Studio 2019 showing 'index out of range' exception](Images/MatchGame_index_out_of_range_exception.png)
 
