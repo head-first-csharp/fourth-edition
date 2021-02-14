@@ -2,7 +2,7 @@
 
 ![](Images/Head_First_CSharp_cover_glasses.png)
 
-This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of ***Head First C#**: A Learner's Guide to Real-World Programming with C# and .NET Core* ([O'Reilly Media](https://learning.oreilly.com/library/view/head-first-c/9781491976692/) 2020).
+This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of ***Head First C#**: A Learner's Guide to Real-World Programming with C# and .NET Core* (O'Reilly Media 2020).
 
 <img src="Images/Step-by-step-instructions-to-download-code.png" width="450"/><br/>
 ***[How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)***
@@ -14,7 +14,7 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
 
 ## What's on this page
 
- * [Read the first four chapters today!](#read-the-first-four-chapters-today)
+ * [Read the first four chapters today! **(free PDF download)**](#read-the-first-four-chapters-today)
  * [What will you learn from this book?](#what-will-you-learn-from-this-book)
  * [What's so special about this book?](#whats-so-special-about-this-book)
  * [Video Walkthroughs](#video-walkthroughs)
