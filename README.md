@@ -2,7 +2,7 @@
 
 ![](Images/Head_First_CSharp_cover_glasses.png)
 
-This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of ***Head First C#**: A Learner's Guide to Real-World Programming with C# and .NET Core* ([O'Reilly Media](https://learning.oreilly.com/library/view/head-first-c/9781491976692/) 2020).
+This GitHub project contains source code, downloadable PDFs, graphics, and additional files for the projects in the 4th edition of ***Head First C#**: A Learner's Guide to Real-World Programming with C# and .NET Core* (O'Reilly Media 2020).
 
 <img src="Images/Step-by-step-instructions-to-download-code.png" width="450"/><br/>
 ***[How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)***
@@ -14,7 +14,7 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
 
 ## What's on this page
 
- * [Read the first four chapters today!](#read-the-first-four-chapters-today)
+ * [Read the first four chapters today! **(free PDF download)**](#read-the-first-four-chapters-today)
  * [What will you learn from this book?](#what-will-you-learn-from-this-book)
  * [What's so special about this book?](#whats-so-special-about-this-book)
  * [Video Walkthroughs](#video-walkthroughs)
@@ -34,6 +34,10 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
  * [License and Copyright](#license-and-copyright)
 
 ## Read the first four chapters today!
+
+<a target="_blank" href="https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf">
+   <img align="right" width="100px" src="Images/PDF_download_ icon.png"/>
+</a>
 
 Do you want to learn C#? Are you trying to figure out if our book is right for you? We think our book is one of the most effective ways to learn C#. But you don't have to take our word for it! We want you to have the best C# learning experience possible, so to make things easy for you we've provided the **first four chapters of our book for free**.
 
