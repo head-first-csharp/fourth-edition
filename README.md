@@ -35,6 +35,10 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
 
 ## Read the first four chapters today!
 
+<a target="_blank" href="https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf">
+   <img align="right" width="100px" src="Images/PDF_download_ icon.png"/>
+</a>
+
 Do you want to learn C#? Are you trying to figure out if our book is right for you? We think our book is one of the most effective ways to learn C#. But you don't have to take our word for it! We want you to have the best C# learning experience possible, so to make things easy for you we've provided the **first four chapters of our book for free**.
 
 Download a **free PDF** of the first 4 chapters: [`Head_First_CSharp_4e_chapters_1_to_4.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf)
