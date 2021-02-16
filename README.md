@@ -179,7 +179,7 @@ While most readers are able to do this project without any trouble, you could ru
 
 ### Is your timer going slowly?
 
-At the end of the WPF Animal Matching Game, is your timer acting strainge, counting slowly or only advancing when you click an emoji? If you still have the runtime tools turned on, that could cause your timer issues. Follow the instructions on page 26, or if you're watching the video walkthrough, at [15:30 in the video](https://www.youtube.com/watch?v=aG08deKSwwI&t=930&ab_channel=HeadFirstC%23), to turn off the tools.
+At the end of the WPF Animal Matching Game, is your timer acting strainge, counting slowly or only advancing when you click an emoji? If you still have the runtime tools turned on, that could cause your timer issues. Follow the instructions on page 26, or if you're watching the video walkthrough, at [15:30 in the video](https://www.youtube.com/watch?v=aG08deKSwwI&t=930&ab_channel=HeadFirstC%23), to turn off the tools. (Thank you to [Daedalus359](https://github.com/Daedalus359) for figuring this out!)
 
 ### Still having trouble? Check out our video walkthrough!
 
