@@ -140,7 +140,7 @@ In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the po
 ### Additional Unity Labs
 
 There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
-* **➜ NEW! ➜** [`Unity_Lab_7.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
+* [`Unity_Lab_7.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
 * [`Unity_Lab_8.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_8.pdf) - Collision Detection
 * `Unity_Lab_9.pdf` - Unity Boss Battle (coming soon!)
 * `Unity_Lab_10.pdf` - robots (coming soon!)
@@ -157,7 +157,7 @@ You can find the code for the Unity Lab projects in the [`Unity_Labs/Projcts fol
 
 Finished the book, but still hungry for more? There are additional **bonus chapters** so you can keep moving forward with your C# learning.
 
- * [Events and Delegates bonus chapter](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/Events_and_Delegates.pdf) - learn about events, delegates, the Func and Action types, and callbacks
+ * **➜ NEW! ➜** [Events and Delegates bonus chapter](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/Events_and_Delegates.pdf) - learn about events, delegates, the Func and Action types, and callbacks
  * *Coming soon: MVVM - the Model-View-ViewModel pattern*
  * *Coming soon: WPF Lab - build a Space Invaders clone in WPF*
 
