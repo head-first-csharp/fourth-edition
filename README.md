@@ -157,7 +157,7 @@ You can find the code for the Unity Lab projects in the [`Unity_Labs/Projcts fol
 
 Finished the book, but still hungry for more? There are additional **bonus chapters** so you can keep moving forward with your C# learning.
 
- * **➜ NEW! ➜** [Events and Delegates bonus chapter](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/Events_and_Delegates.pdf) - learn about events, delegates, the Func and Action types, and callbacks
+ * **🚨 ➜ NEW! ➜ 🚨** [Events and Delegates bonus chapter](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/Events_and_Delegates.pdf) - learn about events, delegates, the Func and Action types, and callbacks
  * *Coming soon: MVVM - the Model-View-ViewModel pattern*
  * *Coming soon: WPF Lab - build a Space Invaders clone in WPF*
 
