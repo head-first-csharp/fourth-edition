@@ -27,7 +27,8 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
     * [Unity Labs from the book](#unity-labs-from-the-book)
     * [Additional Unity Labs](#additional-unity-labs)
     * [Unity Lab code](#unity-lab-code)
- * [All of the additional material that you can download](#all-of-the-additional-material-that-you-can-download)
+ * [Bonus Chapters](#bonus-chapters)
+ * [All of the additional material that you can download](#additional-material-that-you-can-download)
  * [**Did you run into a problem in the first chapter?**](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)
  * [**Did you run into trouble with pages 77 and 78?**](#did-you-run-into-trouble-with-pages-77-and-78)
  * [Did you find an error in the book?](#did-you-find-an-error-in-the-book)
@@ -152,7 +153,15 @@ You can find the code for the Unity Lab projects in the [`Unity_Labs/Projcts fol
  * Opening it in Unity Hub
  * Opening *SampleScene* from the *Scenes* folder
 
-## All of the additional material that you can download
+## Bonus Chapters
+
+Finished the book, but still hungry for more? There are additional **bonus chapters** so you can keep moving forward with your C# learning.
+
+ * [Events and Delegates bonus chapter](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_Chapters/Events_and_Delegates.pdf) - learn about events, delegates, the Func and Action types, and callbacks
+ * *Coming soon: MVVM - the Model-View-ViewModel pattern*
+ * *Coming soon: WPF Lab - build a Space Invaders clone in WPF*
+
+## Additional material that you can download
 
 Here's what you'll find in this repository:
 * [`Head_First_CSharp_4e_chapters_1_to_4.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Head_First_CSharp_4e_chapters_1_to_4.pdf) – a PDF of the first four chapters, including the first two Unity Labs and the *Visual Studio for Mac Learner's Guide* appendix
