@@ -1,0 +1,21 @@
+﻿<Window x:Class="BasketballRoster.View.LeagueWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BasketballRoster.View"
+        xmlns:viewmodel="clr-namespace:BasketballRoster.ViewModel"
+        mc:Ignorable="d"
+        Title="Head First Basketball League" Height="350" Width="450">
+
+    <Window.Resources>
+        <viewmodel:LeagueViewModel x:Key="LeagueViewModel"/>
+    </Window.Resources>
+
+    <StackPanel Orientation="Horizontal" Margin="5" 
+            VerticalAlignment="Center" HorizontalAlignment="Center"
+            DataContext="{StaticResource ResourceKey=LeagueViewModel}" >
+        <local:RosterControl Width="200" DataContext="{Binding JimmysTeam}" Margin="0,0,20,0" />
+        <local:RosterControl Width="200" DataContext="{Binding AnasTeam}" />
+    </StackPanel>
+</Window>
