@@ -80,7 +80,7 @@ The code for the projects in each chapter is in the [`Code` folder](https://gith
 * Inside each chapter folder you'll find each of the projects. For example, the PickRandomCards Console App project on page 106 in Chapter 3 is in the [`Code/Chapter_3/PickRandomCards` folder](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickRandomCards).
 * When there are both WPF and Blazor versions of a project, the chapter folder will contain both of them. For example, on page 118 you create a WPF version of the card picker app called PickACardUI, which you can find in [`Code/Chapter_3/PickACardUI`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickACardUI). The code for the Blazor version on page 714 is in [`Code/Chapter_3/PickACardBlazor`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/PickACardBlazor).
 * Code solutions for the *Sharpen Your Pencil*, *Pool Puzzle*, *Magnets*, and other pencil-and-paper exercise can also be found in the chapter folders. For example, Chapter 3 has two *Sharpen Your Pencil* exercises that have code solutions that run. The first one is on page 135, and the code can be found in [`Code/Chapter_3/SharpenYourPencil`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/SharpenYourPencil). The second one is on page 153, and the code can be found in [`Code/Chapter_3/SharpenYourPencil_2`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Chapter_3/SharpenYourPencil_2).
-* The code for the Unity Lab projects can be found in the [`Unity_Labs/Projects`](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity_Labs/Projects) folder.
+* The code for the Unity Lab projects can be found in the [`Code/Unity_Labs/`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Unity_Labs/) folder.
 
 ### Use the GitHub website to browse the code
 
@@ -107,7 +107,7 @@ All of the projects for each chapter can be loaded in Visual Studio. The easiest
 You can use Unity Hub to load the Unity projects from this repository.
 1. Download  [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip) and extract it.
 3. Follow the instructions in [Unity_Lab_1_Explore_CSharp_with_Unity.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1_Explore_CSharp_with_Unity.pdf) to make sure Unity Hub is installed, as well as the version of Unity that we used to create the Unity Labs.
-4. Open Unity Hub, click the Add button, and navigate to the folder with a Unity project (e.g. `Unity_Labs/Projects/Unity_Labs_1_and_2`), and click Open to add it to the project list in Unity Hub.
+4. Open Unity Hub, click the Add button, and navigate to the folder with a Unity project (e.g. `Code/Unity_Labs/Unity_Labs_1_and_2`), and click Open to add it to the project list in Unity Hub.
 5. Double-click on the project in Unity Hub to open the proejct.
 6. If the scene appears to be empty once Unity loads the project, load the scene by choosing *File >> Open Scene* from the menu, navigating to the Scenes folder, and opening `Sample Scene.unity`.
 
@@ -147,7 +147,7 @@ There's more to learn about Unity! We've written additional Unity Labs that go b
 
 ### Unity Lab code
 
-You can find the code for the Unity Lab projects in the [`Unity_Labs/Projcts folder`](https://github.com/head-first-csharp/fourth-edition/tree/master/Unity_Labs/Projects). You can load a project into Unity by:
+You can find the code for the Unity Lab projects in the [`Code/Unity_Labs/ folder`](https://github.com/head-first-csharp/fourth-edition/tree/master/Code/Unity_Labs/). You can load a project into Unity by:
  * Downloading it (or cloning this whole repository)
  * Adding its folder to Unity Hub
  * Opening it in Unity Hub
