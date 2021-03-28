@@ -106,7 +106,7 @@ All of the projects for each chapter can be loaded in Visual Studio. The easiest
 
 You can use Unity Hub to load the Unity projects from this repository.
 1. Download  [`master.zip`](https://github.com/head-first-csharp/fourth-edition/archive/master.zip) and extract it.
-3. Follow the instructions in [Unity_Lab_1.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1.pdf) to make sure Unity Hub is installed, as well as the version of Unity that we used to create the Unity Labs.
+3. Follow the instructions in [Unity_Lab_1_Explore_CSharp_with_Unity.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1_Explore_CSharp_with_Unity.pdf) to make sure Unity Hub is installed, as well as the version of Unity that we used to create the Unity Labs.
 4. Open Unity Hub, click the Add button, and navigate to the folder with a Unity project (e.g. `Unity_Labs/Projects/Unity_Labs_1_and_2`), and click Open to add it to the project list in Unity Hub.
 5. Double-click on the project in Unity Hub to open the proejct.
 6. If the scene appears to be empty once Unity loads the project, load the scene by choosing *File >> Open Scene* from the menu, navigating to the Scenes folder, and opening `Sample Scene.unity`.
@@ -130,20 +130,20 @@ Some of the chapters have **downloadable projects**. You can download PDFs of th
 ### Unity Labs from the book
 
 In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the powerful platform for 2D and 3D game development, to explore C# and practice your C# skills.
-* [Unity_Lab_1.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1.pdf) – Explore C# with Unity
-* [Unity_Lab_2.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_2.pdf) – Write C# Code for Unity
-* [Unity_Lab_3.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_3.pdf) – GameObject Instances
-* [Unity_Lab_4.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_4.pdf) – User Interfaces
-* [Unity_Lab_5.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_5.pdf) – Raycasting
-* [Unity_Lab_6.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_6.pdf) – Scene Navigation
+* [Unity_Lab_1_Explore_CSharp_with_Unity.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_1_Explore_CSharp_with_Unity.pdf) – Explore C# with Unity
+* [Unity_Lab_2_Write_CSharp_Code_for_Unity.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_2_Write_CSharp_Code_for_Unity.pdf) – Write C# Code for Unity
+* [Unity_Lab_3_GameObject_Instances.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_3_GameObject_Instances.pdf) – GameObject Instances
+* [Unity_Lab_4_User_Interfaces.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_4_User_Interfaces.pdf) – User Interfaces
+* [Unity_Lab_5_Raycasting.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_5_Raycasting.pdf) – Raycasting
+* [Unity_Lab_6_Scene_Navigation.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_6_Scene_Navigation.pdf) – Scene Navigation
 
 ### Additional Unity Labs
 
 There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
-* [`Unity_Lab_7.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7.pdf) – Physics
-* [`Unity_Lab_8.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_8.pdf) - Collision Detection
-* `Unity_Lab_9.pdf` - Unity Boss Battle (coming soon!)
-* `Unity_Lab_10.pdf` - robots (coming soon!)
+* [`Unity_Lab_7_Physics.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7_Physics.pdf) – Physics
+* [`Unity_Lab_8_Collision_Detection.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_8_Collision_Detection.pdf) - Collision Detection
+* `Unity_Lab_9_Unity_Boss_Battle.pdf` - Unity Boss Battle (coming soon!)
+* `Unity_Lab_10_robots.pdf` - robots (coming soon!)
 
 ### Unity Lab code
 
