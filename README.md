@@ -17,7 +17,7 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
  * [Read the first four chapters today! **(free PDF download)**](#read-the-first-four-chapters-today)
  * [What will you learn from this book?](#what-will-you-learn-from-this-book)
  * [What's so special about this book?](#whats-so-special-about-this-book)
- * [How to get Head First C#](#how-to-get-head-first-c#)
+ * [How to get Head First C#](#how-to-get-head-first-c)
  * [Video Walkthroughs](#video-walkthroughs)
  * [How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)
     * [Use the GitHub website to browse the code](#use-the-github-website-to-browse-the-code)
