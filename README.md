@@ -62,7 +62,7 @@ Based on the latest research in cognitive science and learning theory, Head Firs
 ## How to get Head First C#
 
 There are lots of ways that you can get *Head First C#*:
-* You can buy *Head First C#* at [Amazon](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) and other retailers. Amazon has both the [paperback](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) and [Kindle](https://www.amazon.com/Head-First-CSharp-Kindle/dp/B08PQ7CVPT/),  
+* You can buy *Head First C#* at [Amazon](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) and other retailers. Amazon has both [paperback](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) and [Kindle](https://www.amazon.com/Head-First-CSharp-Kindle/dp/B08PQ7CVPT/) versions.
 * You can buy a PDF of *Head First C#* from [eBooks.com](https://www.ebooks.com/en-us/book/210180129/head-first-c/andrew-stellman/).
 * You can start reading *Head First C#* today on the [O'Reilly learning platform](https://learning.oreilly.com/library/view/head-first-c/9781491976692/).
 
