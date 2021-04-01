@@ -17,6 +17,7 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
  * [Read the first four chapters today! **(free PDF download)**](#read-the-first-four-chapters-today)
  * [What will you learn from this book?](#what-will-you-learn-from-this-book)
  * [What's so special about this book?](#whats-so-special-about-this-book)
+ * [How to get Head First C#](#how-to-get-head-first-c)
  * [Video Walkthroughs](#video-walkthroughs)
  * [How to use the code in this repository to follow along with the book](#how-to-use-the-code-in-this-repository-to-follow-along-with-the-book)
     * [Use the GitHub website to browse the code](#use-the-github-website-to-browse-the-code)
@@ -57,6 +58,13 @@ Dive into C# and create apps, user interfaces, games, and more using this fun an
 ## What's so special about this book?
 
 Based on the latest research in cognitive science and learning theory, Head First C# uses a visually rich format to engage your mind rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
+
+## How to get Head First C#
+
+There are lots of ways that you can get *Head First C#*:
+* You can buy *Head First C#* at [Amazon](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) and other retailers. Amazon has both [paperback](https://www.amazon.com/Head-First-CSharp/dp/1491976705/) and [Kindle](https://www.amazon.com/Head-First-CSharp-Kindle/dp/B08PQ7CVPT/) versions.
+* You can buy a PDF of *Head First C#* from [eBooks.com](https://www.ebooks.com/en-us/book/210180129/head-first-c/andrew-stellman/).
+* You can start reading *Head First C#* today on the [O'Reilly learning platform](https://learning.oreilly.com/library/view/head-first-c/9781491976692/).
 
 ## Video Walkthroughs
 
