@@ -1,5 +1,11 @@
 # Welcome to the Head First C# Unity Labs!
 
+Writing code is a skill, and like any other skill, getting better at it takes **practice and experimentation**. [Unity](https://unity.com/) is be a really valuable tool for that.
+
+Unity is a cross-platform game development tool that you can use to make professional-quality games, simulations, and more. It’s also a fun and satisfying way to **get practice with the C# tools and ideas** you’ll learn throughout *Head First C#*. We designed these short, targeted labs to reinforce the concepts and techniques you just learned to help you hone your C# skills.
+
+These labs are an optional part of the book, but valuable practice—even if you aren’t planning on using C# to build games.
+
 ![](../Images/unity-gameobjects.png)
 
 ## Unity Labs from the book
