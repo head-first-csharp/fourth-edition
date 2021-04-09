@@ -150,7 +150,7 @@ In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the po
 There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
 * [`Unity_Lab_7_Physics.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7_Physics.pdf) – Physics
 * [`Unity_Lab_8_Collision_Detection.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_8_Collision_Detection.pdf) - Collision Detection
-* `Unity_Lab_9_Unity_Boss_Battle.pdf` - Unity Boss Battle (coming soon!)
+* **🚨 ➜ NEW! ➜ 🚨** [`Unity_Lab_9_Unity_Boss_Battle.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_9_Unity_Boss_Battle.pdf) - Unity Boss Battle
 * `Unity_Lab_10_robots.pdf` - robots (coming soon!)
 
 ### Unity Lab code
@@ -166,7 +166,7 @@ You can find the code for the Unity Lab projects in the [`Code/Unity_Labs/ folde
 Finished the book, but still hungry for more? There are additional **bonus chapters** so you can keep moving forward with your C# learning.
 
  * [Events and Delegates bonus chapter](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/Events_and_Delegates.pdf) - learn about events, delegates, the Func and Action types, and callbacks
- * **🚨 ➜ NEW! ➜ 🚨** [MVVM - the Model-View-ViewModel pattern (WPF edition)](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/MVVM_WPF.pdf) - learn about how the Model-View-ViewModel pattern can help you build code that's easier to maintain
+ * [MVVM - the Model-View-ViewModel pattern (WPF edition)](https://github.com/head-first-csharp/fourth-edition/raw/master/Bonus_chapters/MVVM_WPF.pdf) - learn about how the Model-View-ViewModel pattern can help you build code that's easier to maintain
 
 ## Additional material that you can download
 
