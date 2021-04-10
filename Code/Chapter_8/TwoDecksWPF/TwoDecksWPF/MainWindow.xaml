@@ -36,7 +36,7 @@
             KeyDown="leftDeckListBox_KeyDown" />
         <ListBox x:Name="rightDeckListBox" Grid.Row="1" Grid.Column="1"
             Margin="10,0,10,10" ItemsSource="{DynamicResource rightDeck}" 
-            KeyDown="leftDeckListBox_KeyDown" />
+            KeyDown="rightDeckListBox_KeyDown" />
         
         <Button x:Name="shuffleLeftDeck" Content="_Shuffle" Grid.Row="2"
                 Margin="10,0,10,10" Click="shuffleLeftDeck_Click" />
