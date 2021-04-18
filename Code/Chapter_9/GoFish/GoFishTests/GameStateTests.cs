@@ -106,7 +106,7 @@ namespace GoFishTests
 
             message = gameState.PlayRound(owen, brittney, Values.Queen, deck);
             Assert.AreEqual("Owen asked Brittney for Queens" + Environment.NewLine +
-                "Owen drew a card", message);
+                "The stock is out of cards", message);
             Assert.AreEqual(1, owen.Books.Count());
             Assert.AreEqual(2, owen.Hand.Count());
         }

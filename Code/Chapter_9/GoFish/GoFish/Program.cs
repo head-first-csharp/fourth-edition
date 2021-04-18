@@ -30,7 +30,7 @@ namespace GoFish
             Console.WriteLine($"{Environment.NewLine}Welcome to the game, {humanName}");
 
 
-            gameController = new GameController("Human",
+            gameController = new GameController(humanName,
                      Enumerable.Range(1, opponentCount).Select(i => $"Computer #{i}"));
             Console.WriteLine(gameController.Status);
 

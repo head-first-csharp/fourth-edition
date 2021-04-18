@@ -71,6 +71,9 @@ namespace GoFish
                 message += $"{playerToAsk.Name} has {cards.Count()}"
                             + $" {valueToAskFor} card{Player.S(cards.Count())}";
             }
+            else if (stock.Count == 0) {
+                message += $"The stock is out of cards";
+            }
             else
             {
                 player.DrawCard(stock);
@@ -81,7 +84,7 @@ namespace GoFish
             {
                 player.GetNextHand(stock);
                 message += $"{Environment.NewLine}{player.Name} ran out of cards,"
-                            + $" drew ${player.Hand.Count()} from the stock";
+                            + $" drew {player.Hand.Count()} from the stock";
             }
 
             return message;
