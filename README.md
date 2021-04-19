@@ -150,8 +150,8 @@ In the *Head First C# Unity Labs* you'll use [Unity](https://unity.com/), the po
 There's more to learn about Unity! We've written additional Unity Labs that go beyond the material in the book to teach you important Unity topics, and give you more practice building 3D games.
 * [`Unity_Lab_7_Physics.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_7_Physics.pdf) – Physics
 * [`Unity_Lab_8_Collision_Detection.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_8_Collision_Detection.pdf) - Collision Detection
-* **🚨 ➜ NEW! ➜ 🚨** [`Unity_Lab_9_Unity_Boss_Battle.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_9_Unity_Boss_Battle.pdf) - Unity Boss Battle
-* `Unity_Lab_10_robots.pdf` - robots (coming soon!)
+* [`Unity_Lab_9_Unity_Boss_Battle.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_9_Unity_Boss_Battle.pdf) - Unity Boss Battle
+* **🚨 ➜ NEW! ➜ 🚨** [`Unity_Lab_10_robots.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_10_robots.pdf) - robots
 
 ### Unity Lab code
 
