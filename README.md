@@ -12,7 +12,7 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
 <img src="Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png" width="500"/><br/>
 ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
-*Did you get an ["Index was out of range" error](#systemargumentoutofrangeexception-index-was-out-of-range) or a ["Debugger operation failed" error](#are-you-getting-debugger-operation-failed-when-you-start-your-blazor-app), or is your [timer going slowly](#is-your-timer-going-slowly)? This will help you fix the problem!)*
+*Did you get an ["Index was out of range" error](#systemargumentoutofrangeexception-index-was-out-of-range) or a ["Debugger operation failed" error](#are-you-getting-debugger-operation-failed-when-you-start-your-blazor-app), or is your [timer going slowly](#is-your-timer-going-slowly)? There are usually straightforward fixes for those issues!)*
 
 ## What's on this page
 
