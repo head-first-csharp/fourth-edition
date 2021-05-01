@@ -11,8 +11,7 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
 
 <img src="Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png" width="500"/><br/>
 ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
-
-*Did you get an "Index was out of range" error? This will help you fix it!*
+*(Did you get an "Index was out of range" error? This will help you fix it!)*
 
 ## What's on this page
 
