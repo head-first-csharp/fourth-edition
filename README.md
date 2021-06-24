@@ -12,6 +12,8 @@ Here's a direct link to download all of the code: [`master.zip`](https://github.
 <img src="Images/Did-you-run-into-a-problem-in-Chapter-1-click-here.png" width="500"/><br/>
 ***[Troubleshooting problems with Chapter 1](#did-you-run-into-trouble-with-the-project-in-the-first-chapter)***
 
+*Did you get an ["Index was out of range" error](#systemargumentoutofrangeexception-index-was-out-of-range) or a ["Debugger operation failed" error](#are-you-getting-debugger-operation-failed-when-you-start-your-blazor-app), or is your [timer going slowly](#is-your-timer-going-slowly)? There are usually straightforward fixes for those issues!)*
+
 ## What's on this page
 
  * [Read the first four chapters today! **(free PDF download)**](#read-the-first-four-chapters-today)
@@ -197,14 +199,6 @@ While most readers are able to do this project without any trouble, you could ru
 
 At the end of the WPF Animal Matching Game, is your timer acting strainge, counting slowly or only advancing when you click an emoji? If you still have the runtime tools turned on, that could cause your timer issues. Follow the instructions on page 26, or if you're watching the video walkthrough, at [15:30 in the video](https://www.youtube.com/watch?v=aG08deKSwwI&t=930&ab_channel=HeadFirstC%23), to turn off the tools. (Thank you to [Daedalus359](https://github.com/Daedalus359) for figuring this out!)
 
-### Still having trouble? Check out our video walkthrough!
-
-If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
-
-## Did you run into trouble with pages 77 and 78?
-
-In some early printings of Head First C# (4th edition), pages 77 and 78 were reversed! These are the corrected pages, with the steps in the proper order: [Corrected_pages_77_and_78.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Additional_material/Corrected_pages_77_and_78.pdf)
-
 ### Are you getting "Debugger operation failed" when you start your Blazor app?
 
 If you're following the Visual Studio for Mac Learner's Guide, the very first step is creating an ASP.NET Blazor WebAssembly App project and running it. If you run into an "Unable to launch browser" error or an error that mentions certificates, it probably means there's a small setup issue that you need to fix. Open Terminal and run the following commands:
@@ -218,6 +212,14 @@ If you're following the Visual Studio for Mac Learner's Guide, the very first st
 This redeploys the developer certificates, which lets your browser trust Visual Studio to allow debugging.
 
 _special thanks to [Twitter user Chris Jackson @Sirhc7001](https://twitter.com/Sirhc7001/status/1354489560093265920) for **very quickly** finding the solution! You can read more about it here: [`dotnet quits unexpectedly on mac os #12317`](https://github.com/dotnet/runtime/issues/12317)_
+
+### Still having trouble? Check out our video walkthrough!
+
+If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
+
+## Did you run into trouble with pages 77 and 78?
+
+In some early printings of Head First C# (4th edition), pages 77 and 78 were reversed! These are the corrected pages, with the steps in the proper order: [Corrected_pages_77_and_78.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Additional_material/Corrected_pages_77_and_78.pdf)
 
 ## Did you find an error in the book?
 
