@@ -221,6 +221,10 @@ If you're still having trouble, watch the video walkthrough for the project on o
 
 In some early printings of Head First C# (4th edition), pages 77 and 78 were reversed! These are the corrected pages, with the steps in the proper order: [Corrected_pages_77_and_78.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Additional_material/Corrected_pages_77_and_78.pdf)
 
+## Did you have trouble with the "HiLo" game on pages 243 and 244?
+
+In some early printings of Head First C# (4th edition), there was a minor technical issue with this exercise. Here's an updated version: [Corrected_pages_243_and_244.pdf](https://github.com/head-first-csharp/fourth-edition/raw/master/Additional_material/Corrected_pages_243_and_244.pdf)
+
 ## Did you find an error in the book?
 
 We worked really hard to make this book as error-free as possible! But we're only human, and we do occasionally make mistkaes. If you spot an error in the book, please use the [O'Reilly errata page](https://www.oreilly.com/catalog/errata.csp?isbn=9781491976708) to let us know about it. That way it goes into a database so we can keep track of it and fix it in future printings.
