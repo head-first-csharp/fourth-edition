@@ -77,6 +77,14 @@ namespace MatchGame
             timer.Start();
             tenthsOfSecondsElapsed = 0;
             matchesFound = 0;
+            
+            foreach (TextBlock textBlock in mainGrid.Children.OfType<TextBlock>()) // after replay, meke them visible again
+            {
+                if (textBlock.Name != "timeTextBlock")
+                {
+                    textBlock.Visibility = Visibility.Visible;
+                }
+            }
         }
 
         TextBlock lastTextBlockClicked;
