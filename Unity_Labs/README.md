@@ -25,7 +25,7 @@ There's more to learn about Unity! We've written additional Unity Labs that go b
 * [`Unity_Lab_8_Collision_Detection.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_8_Collision_Detection.pdf) - Collision Detection
 * [`Unity_Lab_9_Unity_Boss_Battle.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_9_Unity_Boss_Battle.pdf) - Unity Boss Battle
 * [`Unity_Lab_10_robots.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Lab_10_robots.pdf) - robots
-* [`Unity_Labs_Rider_Edition.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Labs_Rider_Edition.pdf.pdf) - JetBrains Rider edition of Unity Labs 1 through 4
+* [`Unity_Labs_Rider_Edition.pdf`](https://github.com/head-first-csharp/fourth-edition/raw/master/Unity_Labs/Unity_Labs_Rider_Edition.pdf) - JetBrains Rider edition of Unity Labs 1 through 4
 
 ## Unity Lab code
 
