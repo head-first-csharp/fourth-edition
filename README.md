@@ -216,7 +216,7 @@ _special thanks to [Twitter user Chris Jackson @Sirhc7001](https://twitter.com/S
 
 ### Still having trouble? Check out our video walkthrough!
 
-If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured). It shows every step in the project so you can see exactly what you're supposed to do.
+If you're still having trouble, watch the video walkthrough for the project on our [YouTube channel](https://www.youtube.com/@headfirstcsharp). It shows every step in the project so you can see exactly what you're supposed to do.
 
 ## Did you run into trouble with pages 77 and 78?
 
