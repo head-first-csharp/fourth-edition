@@ -70,7 +70,7 @@ There are lots of ways that you can get *Head First C#*:
 
 ## Video Walkthroughs
 
-Find the video walkthroughs for Chapter 1 on our [YouTube channel](https://www.youtube.com/channel/UCnbMYjZgh6fSB6BBww1Wfbw/featured).
+Find the video walkthroughs for Chapter 1 on our [YouTube channel](youtube.com/@headfirstcsharp).
 
 ## How to use the code in this repository to follow along with the book
 
