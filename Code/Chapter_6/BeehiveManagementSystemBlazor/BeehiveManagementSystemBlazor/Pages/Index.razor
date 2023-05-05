@@ -1,0 +1,43 @@
+﻿@page "/"
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-4">
+            <h3 class="row">Job Assignments</h3>
+
+            <select class="row mt-1 custom-select" @bind="selectedJob">
+                <option value="Nectar Collector">Nectar Collector</option>
+                <option value="Honey Manufacturer">Honey Manufacturer</option>
+                <option value="Egg Care">Egg Care</option>
+            </select>
+
+            <div class="row mt-1">
+                <button class="col btn btn-small btn-secondary"
+                        @onclick="() => queen.AssignBee(selectedJob)">
+                    Assign this job to a bee
+                </button>
+            </div>
+
+            <div class="row mt-4">
+                <button class="col btn btn-lg btn-primary"
+                        @onclick="() => queen.WorkTheNextShift()">
+                    Work the next shift
+                </button>
+            </div>
+        </div>
+
+        <div class="col-1" />
+
+        <div class="col-7">
+            <h3 class="row">Queen's Report</h3>
+            <textarea class="row" rows="12" cols="50" value="@queen.StatusReport" readonly />
+        </div>
+
+    </div>
+</div>
+
+@code {
+    Queen queen = new Queen();
+    string selectedJob = "Nectar Collector";
+}
