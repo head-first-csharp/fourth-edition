@@ -36,8 +36,8 @@
 </div>
 
 @code {
-    List<string> animalEmoji = new List<string>()
-{
+    List<string> animalEmoji = new()
+    {
         "🐶","🐶",
         "🐺","🐺",
         "🐮","🐮",
@@ -48,12 +48,14 @@
         "🐹","🐹",
     };
 
-    List<string> shuffledAnimals = new List<string>();
+    List<string> shuffledAnimals = new();
     int matchesFound = 0;
     Timer timer;
     int tenthsOfSecondsElapsed = 0;
     string timeDisplay;
-
+    string lastAnimalFound = string.Empty;
+    string lastDescription = string.Empty;
+        
     protected override void OnInitialized()
     {
         timer = new Timer(100);
@@ -64,16 +66,13 @@
 
     private void SetUpGame()
     {
-        Random random = new Random();
+        Random random = Random.Shared;
         shuffledAnimals = animalEmoji
             .OrderBy(item => random.Next())
             .ToList();
         matchesFound = 0;
         tenthsOfSecondsElapsed = 0;
     }
-
-    string lastAnimalFound = string.Empty;
-    string lastDescription = string.Empty;
 
     private void ButtonClick(string animal, string animalDescription)
     {
@@ -96,7 +95,7 @@
                 .ToList();
 
             matchesFound++;
-            if (matchesFound == 8)
+            if (matchesFound == shuffledAnimals.Count / 2)
             {
                 timer.Stop();
                 timeDisplay += " - Play Again?";
